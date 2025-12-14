@@ -1,0 +1,2 @@
+[[Bugbear]]
+[[Capo Goblin]]
