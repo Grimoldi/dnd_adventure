@@ -1,0 +1,214 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "off",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": false,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "bookmarks": {
+      "icon": "lucide-star"
+    },
+    "file-explorer": {
+      "icon": "lucide-moon"
+    },
+    "search": {
+      "icon": "lucide-hourglass"
+    }
+  },
+  "fileIcons": {
+    "Campaign": {
+      "icon": "lucide-trophy",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    },
+    "Campaign/01 - Gli scuri.md": {
+      "icon": "lucide-swords"
+    },
+    "NPC": {
+      "icon": "lucide-baby",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    },
+    "PC": {
+      "icon": "lucide-sword",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    },
+    "PC/Casanova.md": {
+      "icon": "🧙‍♂️"
+    },
+    "PC/Ninnolo.md": {
+      "icon": "🗡️"
+    },
+    "PC/Tanz.md": {
+      "icon": "🎶"
+    },
+    "PC/Thessobit.md": {
+      "icon": "🪓"
+    },
+    "Places": {
+      "icon": "lucide-map",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    },
+    "Sessions": {
+      "icon": "lucide-flame-kindling",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    },
+    "Unchategorized": {
+      "icon": "question-mark-glyph",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "dFj8p",
+      "name": "Alive Enemy NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "enemy"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "alive"
+        },
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-alert",
+      "color": "red"
+    },
+    {
+      "id": "Qj8UO",
+      "name": "Dead Enemy NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "enemy"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "dead"
+        },
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-off"
+    },
+    {
+      "id": "2Ze2r",
+      "name": "Alive Ally NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "ally"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "alive"
+        },
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-check",
+      "color": "green"
+    },
+    {
+      "id": "CuZkU",
+      "name": "Dead Ally NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "ally"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "dead"
+        },
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield"
+    },
+    {
+      "id": "LvpwR",
+      "name": "Unknown NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "unknown"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-question",
+      "color": "yellow"
+    }
+  ],
+  "folderRules": []
+}

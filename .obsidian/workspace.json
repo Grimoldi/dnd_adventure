@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "e094d840f152ed40",
+    "type": "split",
+    "children": [
+      {
+        "id": "305199527f7ddca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c51cfc11f7a4be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC/Ninnolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ninnolo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a4f75e15cd225a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b479a4b875aa3023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e7bca77829629e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "411eee44ebff9c74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ally",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af93cf616804422f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a6df2248da1ad8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71db56e9d85b456a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9074f1b3928470",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PC/Ninnolo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ninnolo"
+            }
+          },
+          {
+            "id": "445b4eee6a247278",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PC/Ninnolo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ninnolo"
+            }
+          },
+          {
+            "id": "d002fbe0794b48ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa797d5ec4dcb62e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3f33dfafd1032de8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PC/Ninnolo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ninnolo"
+            }
+          },
+          {
+            "id": "3b55ca01f21225d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8c51cfc11f7a4be6",
+  "lastOpenFiles": [
+    "PC/Ninnolo.md",
+    "PC/Casanova.md",
+    "Campaign/01 - Gli scuri.md",
+    "NPC/Bugbear.md",
+    "NPC/Gundren.md",
+    "Unchategorized/Alleanza dei Lord.md",
+    "Sessions/01 - Un nuovo inizio.md",
+    "Sessions/02 - Nel covo dei goblin.md",
+    "Places/Castello re Kroll.md",
+    "Places/Collina.md",
+    "NPC/Tresp.md",
+    "NPC/Sildar.md",
+    "NPC/Re Kroll.md",
+    "NPC/Ragno Nero.md",
+    "NPC/oste paese in decadenza.md",
+    "NPC/mendicante.md",
+    "NPC/mago amico di Sildar.md",
+    "NPC/emissario Ragno Nero.md",
+    "NPC/Capo Goblin.md",
+    "NPC/banda predoni.md",
+    "PC/Tanz.md",
+    "PC/Thessobit.md",
+    "Places/Paese in decadenza.md",
+    "Places/Miniere arcane.md",
+    "Places/Neverwinter.md",
+    "Unchategorized/Untitled",
+    "Unchategorized",
+    "0 - root.md",
+    "PC",
+    "Places",
+    "Campaign",
+    "Sessions",
+    "NPC"
+  ]
+}
