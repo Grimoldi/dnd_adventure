@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "305199527f7ddca4",
+        "id": "06d2e217fcfff4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8c51cfc11f7a4be6",
+            "id": "e311359a95752529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ninnolo.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninnolo"
+              "title": "C1 - 02 - Nel covo dei goblin"
+            }
+          },
+          {
+            "id": "2cf1f706e6cd3394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1 - 02 - Nel covo dei goblin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/Ninnolo.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ninnolo"
+              "title": "Backlinks for C1 - 02 - Nel covo dei goblin"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC/Ninnolo.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ninnolo"
+              "title": "Outgoing links from C1 - 02 - Nel covo dei goblin"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC/Ninnolo.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ninnolo"
+              "title": "Outline of C1 - 02 - Nel covo dei goblin"
             }
           },
           {
@@ -195,16 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c51cfc11f7a4be6",
+  "active": "2cf1f706e6cd3394",
   "lastOpenFiles": [
+    "Sessions/C1 - 01 - Un nuovo inizio.md",
+    "Sessions/C1 - 02 - Nel covo dei goblin.md",
+    "Campaign/C1 - Gli scuri.md",
+    "NPC/banda predoni.md",
+    "NPC/Capo Goblin.md",
+    "NPC/Bugbear.md",
+    "NPC/mendicante.md",
     "PC/Ninnolo.md",
     "PC/Casanova.md",
-    "Campaign/01 - Gli scuri.md",
-    "NPC/Bugbear.md",
     "NPC/Gundren.md",
     "Unchategorized/Alleanza dei Lord.md",
-    "Sessions/01 - Un nuovo inizio.md",
-    "Sessions/02 - Nel covo dei goblin.md",
     "Places/Castello re Kroll.md",
     "Places/Collina.md",
     "NPC/Tresp.md",
@@ -212,11 +230,8 @@
     "NPC/Re Kroll.md",
     "NPC/Ragno Nero.md",
     "NPC/oste paese in decadenza.md",
-    "NPC/mendicante.md",
     "NPC/mago amico di Sildar.md",
     "NPC/emissario Ragno Nero.md",
-    "NPC/Capo Goblin.md",
-    "NPC/banda predoni.md",
     "PC/Tanz.md",
     "PC/Thessobit.md",
     "Places/Paese in decadenza.md",
