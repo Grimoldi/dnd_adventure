@@ -25,14 +25,14 @@
             "id": "2cf1f706e6cd3394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "C1 - 02 - Nel covo dei goblin"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "2cf1f706e6cd3394",
   "lastOpenFiles": [
-    "Sessions/C1 - 01 - Un nuovo inizio.md",
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
+    "Sessions/C1 - 01 - Un nuovo inizio.md",
     "Campaign/C1 - Gli scuri.md",
     "NPC/banda predoni.md",
     "NPC/Capo Goblin.md",
