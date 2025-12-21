@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Barthen.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barthen"
+              "title": "C1 - 02 - Nel covo dei goblin"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Barthen.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Barthen"
+              "title": "Backlinks for C1 - 02 - Nel covo dei goblin"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Barthen.md",
+                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Barthen"
+              "title": "Outgoing links from C1 - 02 - Nel covo dei goblin"
             }
           },
           {
@@ -199,10 +199,12 @@
   },
   "active": "0a19392ff3f32421",
   "lastOpenFiles": [
+    "Sessions/C1 - 01 - Un nuovo inizio.md",
+    "NPC/Barthen.md",
+    "NPC/Sildar Hallwinter.md",
     "NPC/Iarno Albrek.md",
     "NPC/Toblen Stonehill.md",
     "NPC/Tresp.md",
-    "NPC/Barthen.md",
     "Places/Phandalin.md",
     "NPC/banda predoni.md",
     "NPC/emissario Ragno Nero.md",
@@ -211,7 +213,6 @@
     "NPC/mendicante.md",
     "NPC/Ragno Nero.md",
     "NPC/Re Groll.md",
-    "NPC/Sildar Hallwinter.md",
     "NPC/Yeemik.md",
     "Places/Miniere arcane.md",
     "Places/collina dei Cragmaw.md",
@@ -224,7 +225,6 @@
     "srd/compendium/lists/list-spells-optional-features-misty-visions-xphb.md",
     "srd/compendium/lists/list-spells-optional-features-master-of-myriad-forms-xphb.md",
     "srd/compendium/lists/list-spells-optional-features-mask-of-many-faces-xphb.md",
-    "srd/compendium/lists/list-spells-optional-features-gift-of-the-depths-xphb.md",
     "Pasted image 20251221000059.png",
     "z_assets/NPC/Designer.png",
     "z_assets/default-npc.png",

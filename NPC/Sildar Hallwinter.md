@@ -1,6 +1,7 @@
 ---
 tags:
   - npc/ally/alive
+  - guild/lord-alliance
 ---
 
 ---

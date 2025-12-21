@@ -7,7 +7,7 @@ Prima di entrare nella locanda, un misterioso [[mendicante]] chiede l'elemosina 
 
 Davanti ad una (serie di) birra loro offerte, il gruppo scopre come in realtà [[Gundren Rockseeker]] sia partito il giorno prima, accompagnato da una persona, per [[Phandalin]], per questioni improcrastinabili.
 
-[[Tresp]] chiede al gruppo, a nome di [[Gundren Rockseeker]], di scortare un carro carico di scorte a [[Phandalin]] e di consegnarlo alla locanda XXX a [[Barthen]], oste della stessa.
+[[Tresp]] chiede al gruppo, a nome di [[Gundren Rockseeker]], di scortare un carro carico di scorte a [[Phandalin]] e di consegnarlo alla locanda Stonehill a [[Toblen Stonehill]], oste della stessa.
 
 Il viaggio verso [[Phandalin]] si svolge in completa calma per i primi due giorni, ma quando al terzo giorno il gruppo devia dalla strada principale per seguire le indicazioni per [[Phandalin]], [[Ninnolo]] dopo breve distanza, avvista due cavalli crivellati di frecce sulla strada.
 
@@ -17,7 +17,7 @@ Esplorando i dintorni, notano uno stretto sentiero che si perde nelle foreste ai
 
 Il gruppo decide tuttavia di portare prima a compimento la missione affidatagli, sperando di riuscire ad incontrare [[Gundren Rockseeker]] a [[Phandalin]], pur temendo i due corpi possano essere proprio quello del nano e del suo accompagnatore.
 
-Arrivati sul calar del giorno a [[Phandalin]], i quattro avventurieri consegnano il carico a [[Barthen]], ma i loro timori sembrano avere conferma alla notizia che [[Gundren Rockseeker]] non sia ancora arrivato in paese.
+Arrivati sul calar del giorno a [[Phandalin]], i quattro avventurieri consegnano il carico a [[Toblen Stonehill]], ma i loro timori sembrano avere conferma alla notizia che [[Gundren Rockseeker]] non sia ancora arrivato in paese.
 
 Calando ormai le tenebre e sfiniti dal viaggio, il gruppo concorda di meritarsi un meritato riposo e di ripartire l'indomani mattina presto per tornare sul luogo dell'agguato.
 

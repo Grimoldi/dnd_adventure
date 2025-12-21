@@ -1,6 +1,7 @@
 ---
 tags:
   - npc/unknown/unknown
+  - guild/lord-alliance
 ---
 
 ---
