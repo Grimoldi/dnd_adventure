@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "06d2e217fcfff4c5",
+        "id": "b7fc2ed21db52f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e311359a95752529",
+            "id": "0a19392ff3f32421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
-                "mode": "source",
+                "file": "NPC/Re Kroll.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1 - 02 - Nel covo dei goblin"
-            }
-          },
-          {
-            "id": "2cf1f706e6cd3394",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Re Kroll"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
+                "file": "NPC/Re Kroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C1 - 02 - Nel covo dei goblin"
+              "title": "Backlinks for Re Kroll"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/C1 - 02 - Nel covo dei goblin.md",
-                "linksCollapsed": false,
+                "file": "NPC/Re Kroll.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C1 - 02 - Nel covo dei goblin"
+              "title": "Outgoing links from Re Kroll"
             }
           },
           {
@@ -191,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,43 +192,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2cf1f706e6cd3394",
+  "active": "0a19392ff3f32421",
   "lastOpenFiles": [
-    "Sessions/C1 - 02 - Nel covo dei goblin.md",
-    "Sessions/C1 - 01 - Un nuovo inizio.md",
-    "Campaign/C1 - Gli scuri.md",
-    "NPC/banda predoni.md",
     "NPC/Capo Goblin.md",
-    "NPC/Bugbear.md",
-    "NPC/mendicante.md",
-    "PC/Ninnolo.md",
-    "PC/Casanova.md",
-    "NPC/Gundren.md",
-    "Unchategorized/Alleanza dei Lord.md",
-    "Places/Castello re Kroll.md",
-    "Places/Collina.md",
-    "NPC/Tresp.md",
-    "NPC/Sildar.md",
-    "NPC/Re Kroll.md",
     "NPC/Ragno Nero.md",
-    "NPC/oste paese in decadenza.md",
-    "NPC/mago amico di Sildar.md",
-    "NPC/emissario Ragno Nero.md",
-    "PC/Tanz.md",
-    "PC/Thessobit.md",
-    "Places/Paese in decadenza.md",
-    "Places/Miniere arcane.md",
-    "Places/Neverwinter.md",
-    "Unchategorized/Untitled",
-    "Unchategorized",
-    "0 - root.md",
-    "PC",
-    "Places",
-    "Campaign",
-    "Sessions",
-    "NPC"
+    "Pasted image 20251221000059.png",
+    "NPC/Bugbear.md",
+    "z_templates/npc.md",
+    "z_assets/NPC/Designer.png",
+    "z_templates/location.md",
+    "z_assets/default-npc.png",
+    "z_assets/default-location.png",
+    "z_assets/PC/wrenn.png",
+    "z_assets/NPC/goblin.png",
+    "z_assets/NPC/bugbear.png",
+    "z_assets/Designer.png",
+    "NPC/banda predoni.md",
+    "PC/Ninnolo.md",
+    "srd/compendium/backgrounds/backgrounds.md",
+    "z_assets/npc.png",
+    "z_assets/Untitled.md",
+    "z_assets/Places",
+    "z_assets/NPC",
+    "srd/rules/variant-rules/weapon-xphb.md",
+    "srd/rules/variant-rules/weapon-attack-xphb.md",
+    "srd/rules/variant-rules/weapon-mastery-properties-xphb.md",
+    "srd/rules/variant-rules/vulnerability-xphb.md",
+    "srd/rules/variant-rules/unarmed-strike-xphb.md",
+    "srd/rules/variant-rules/unoccupied-space-xphb.md",
+    "srd/rules/variant-rules/telepathy-xphb.md",
+    "srd/rules/variant-rules/temporary-hit-points-xphb.md",
+    "srd/rules/variant-rules/teleportation-xphb.md",
+    "srd/rules/variant-rules/swim-speed-xphb.md",
+    "srd/rules/variant-rules/target-xphb.md",
+    "srd/rules/variant-rules/swimming-xphb.md",
+    "srd/rules/variant-rules/sphere-area-of-effect-xphb.md",
+    "srd/rules/variant-rules/stat-block-xphb.md",
+    "srd/rules/variant-rules/stable-xphb.md",
+    "srd/rules/variant-rules/spell-attack-xphb.md",
+    "srd/rules/variant-rules/spellcasting-focus-xphb.md",
+    "srd/rules/variant-rules",
+    "srd/rules",
+    "srd/compendium/traps-hazards",
+    "srd/compendium/tables",
+    "srd/compendium/spells",
+    "srd/compendium/races",
+    "srd/compendium/optional-features",
+    "srd/compendium/lists",
+    "z_assets/Copilot 05 - more fantasy.png"
   ]
 }

@@ -1,4 +1,9 @@
 [
   "iconic",
-  "obsidian-git"
+  "obsidian-git",
+  "buttons",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "obsidian-admonition"
 ]

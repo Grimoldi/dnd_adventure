@@ -6,6 +6,25 @@ tags:
 
 ---
 
+> [!infobox|right]
+> # Name
+> ![[goblin.png|cover hsmall]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Strenght | 10 |
+> | Dexterity | 10 |
+> | Constitution | 10 |
+> | Intelligence | 10 |
+> | Wisdom | 10 |
+> | Charisma | 10 |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+
 Vive in [[Collina]], dove si contende la leadership di una banda di goblin con [[Bugbear]].
 
 Tiene in ostaggio [[Sildar]], salvo poi essere sconfitto dal gruppo.

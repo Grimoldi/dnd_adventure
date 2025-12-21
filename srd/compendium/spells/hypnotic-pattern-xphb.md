@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/class/warlock
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/level/3rd-level
+- ttrpg-cli/spell/school/illusion
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/illusionist
+- ttrpg-cli/spell/subclass/trickery-domain
+aliases:
+- "Hypnotic Pattern"
+---
+# Hypnotic Pattern
+%%-- Embedded content starts on the next line. --%%
+*3rd-level, Illusion*  
+
+- **Casting time:** 1 Action
+- **Range:** 120 feet
+- **Components:** S, M (a pinch of confetti)
+- **Duration:** Concentration, up to 1 minute
+
+You create a twisting pattern of colors in a 30-foot [Cube](srd/rules/variant-rules/cube-area-of-effect-xphb.md) within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the [Charmed](srd/rules/conditions.md#Charmed) condition for the duration. While [Charmed](srd/rules/conditions.md#Charmed), the creature has the [Incapacitated](srd/rules/conditions.md#Incapacitated) condition and a [Speed](srd/rules/variant-rules/speed-xphb.md) of 0.
+
+The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+
+**Classes**: [Bard (College of Lore)](srd/compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](srd/compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](srd/compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](srd/compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](srd/compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](srd/compendium/lists/list-spells-classes-sorcerer.md); [Warlock](srd/compendium/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](srd/compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](srd/compendium/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

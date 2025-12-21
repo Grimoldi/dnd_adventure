@@ -55,10 +55,11 @@
       ]
     },
     "PC": {
-      "icon": "lucide-sword",
+      "icon": "lucide-swords",
       "unsynced": [
         "3946033a7d1bea43"
-      ]
+      ],
+      "color": "blue"
     },
     "PC/Casanova.md": {
       "icon": "🧙‍♂️"
