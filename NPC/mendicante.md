@@ -1,7 +1,6 @@
 ---
 tags:
-  - alive
-  - unknown
+  - npc/unknown/alive
 ---
 
 ---

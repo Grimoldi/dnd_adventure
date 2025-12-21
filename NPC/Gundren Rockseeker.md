@@ -1,6 +1,6 @@
 ---
 tags:
-  - unknown
+  - npc/ally/alive
 ---
 
 ---

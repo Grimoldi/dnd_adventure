@@ -1,3 +1,3 @@
-[[Gundren]]
-[[Paese in decadenza]]
+[[Gundren Rockseeker]]
+[[Phandalin]]
 

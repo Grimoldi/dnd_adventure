@@ -17,9 +17,9 @@ Sessioni:
 
 Luoghi:
 [[Castello re Kroll]]
-[[Collina]]
+[[collina dei Cragmaw]]
 [[Miniere arcane]]
 [[Neverwinter]]
-[[Paese in decadenza]]
+[[Phandalin]]
 
 

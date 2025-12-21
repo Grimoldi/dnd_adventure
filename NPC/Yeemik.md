@@ -1,14 +1,14 @@
 ---
 tags:
-  - enemy
-  - alive
+  - tribe/Cragmaw
+  - npc/enemy/dead
 ---
 
 ---
 
 > [!infobox|right]
 > # Name
-> ![[default-npc.png|cover hsmall]]
+> ![[goblin.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,4 +25,6 @@ tags:
 > | Test | Testing |
 > | Test | Testing |
 
-[[Castello re Kroll]]
+Vive in [[collina dei Cragmaw]], dove si contende la leadership di una banda di goblin con [[Klarg]].
+
+Tiene in ostaggio [[Sildar Hallwinter]], salvo poi essere sconfitto dal gruppo.

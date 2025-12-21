@@ -1,9 +1,8 @@
 ---
 tags:
-  - enemy
-  - alive
+  - npc/enemy/alive
 ---
 
 ---
 
-[[Paese in decadenza]]
+[[Phandalin]]

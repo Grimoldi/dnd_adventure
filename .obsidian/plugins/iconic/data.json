@@ -105,17 +105,7 @@
         {
           "source": "tags",
           "operator": "includes",
-          "value": "enemy"
-        },
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "alive"
-        },
-        {
-          "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "value": "npc/enemy/alive"
         }
       ],
       "enabled": true,
@@ -130,17 +120,7 @@
         {
           "source": "tags",
           "operator": "includes",
-          "value": "enemy"
-        },
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "dead"
-        },
-        {
-          "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "value": "npc/enemy/dead"
         }
       ],
       "enabled": true,
@@ -154,17 +134,7 @@
         {
           "source": "tags",
           "operator": "includes",
-          "value": "ally"
-        },
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "alive"
-        },
-        {
-          "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "value": "npc/ally/alive"
         }
       ],
       "enabled": true,
@@ -179,17 +149,7 @@
         {
           "source": "tags",
           "operator": "includes",
-          "value": "ally"
-        },
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "dead"
-        },
-        {
-          "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "value": "npc/ally/dead"
         }
       ],
       "enabled": true,
@@ -202,8 +162,8 @@
       "conditions": [
         {
           "source": "tags",
-          "operator": "includes",
-          "value": "unknown"
+          "operator": "anyStartWith",
+          "value": "npc/unknown"
         }
       ],
       "enabled": true,

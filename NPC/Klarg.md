@@ -1,7 +1,7 @@
 ---
 tags:
-  - enemy
-  - dead
+  - tribe/Cragmaw
+  - npc/enemy/dead
 ---
 
 ---
@@ -26,6 +26,6 @@ tags:
 > | Test | Testing |
 > 
 
-Vive in [[Collina]], dove si contende la leadership di una banda di goblin con [[Capo Goblin]].
+Vive in [[collina dei Cragmaw]], dove si contende la leadership di una banda di goblin con [[Yeemik]].
 
 Viene sconfitto dal gruppo, non senza aver ucciso [[Ninnolo]] (due volte!).

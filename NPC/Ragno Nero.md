@@ -1,7 +1,6 @@
 ---
 tags:
-  - enemy
-  - alive
+  - npc/enemy/alive
 ---
 
 ---
