@@ -6,7 +6,7 @@
       {
         "id": "93999302a55922af",
         "type": "tabs",
-        "dimension": 51.630434782608695,
+        "dimension": 51.6304347826087,
         "children": [
           {
             "id": "803bbee2018e4dec",
@@ -14,37 +14,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Toblen Stonehill.md",
+                "file": "Places/Phandalin.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Toblen Stonehill"
+              "title": "Phandalin"
             }
           },
           {
-            "id": "fdf2e69f075fdfd2",
+            "id": "72942a8b26ba680a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Klarg.md",
-                "mode": "source",
+                "file": "NPC/Arbin Wester.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Klarg"
+              "title": "Arbin Wester"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c837d2051eb38c37",
         "type": "tabs",
-        "dimension": 48.369565217391305,
+        "dimension": 48.3695652173913,
         "children": [
           {
-            "id": "72942a8b26ba680a",
+            "id": "ebc0faf213259b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,37 +57,8 @@
               "icon": "lucide-file",
               "title": "C1 - 03 -"
             }
-          },
-          {
-            "id": "ebc0faf213259b30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/collina dei Cragmaw.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "collina dei Cragmaw"
-            }
-          },
-          {
-            "id": "1689ebe98612d30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Phandalin.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Phandalin"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +90,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tribe/Cragmaw",
-                "matchingCase": false,
+                "query": "Daran",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -143,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -263,27 +236,29 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "1689ebe98612d30e",
+  "active": "ebc0faf213259b30",
   "lastOpenFiles": [
-    "Places/collina dei Cragmaw.md",
-    "Places/Phandalin.md",
-    "NPC/Toblen Stonehill.md",
+    "NPC/Arbin Wester.md",
     "Sessions/C1 - 03 -.md",
-    "NPC/Klarg.md",
-    "NPC/New NPC.md",
+    "Places/Phandalin.md",
+    "NPC/Daran Edermath.md",
+    "NPC/Alia.md",
+    "NPC/Gundren Rockseeker.md",
     "Campaign/C1 - Lost mines of Phandelver.md",
     "Groups/Marchi rossi.md",
+    "Places/collina dei Cragmaw.md",
+    "NPC/Toblen Stonehill.md",
+    "NPC/Klarg.md",
+    "z_templates/location-template.md",
+    "z_templates/npc-template.md",
     "Groups/Scudo del leone.md",
     "NPC/Yeemik.md",
     "NPC/Elmar Barthen.md",
-    "NPC/Gundren Rockseeker.md",
     "Groups/Alleanza dei Lord.md",
     "Groups/Cragmaw.md",
     "NPC/Sildar Hallwinter.md",
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
     "srd/compendium/backgrounds/acolyte-xphb.md",
-    "z_templates/npc-template.md",
-    "z_templates/location-template.md",
     "Places/collina2.md",
     "z_assets/Places/collina_dei_cramaw.png",
     "z_assets/Places/Designer(1).png",
@@ -294,8 +269,6 @@
     "z_assets/NPC/Yeemik.png",
     "z_assets/NPC/Klarg.png",
     "Places/Test-location.md",
-    "NPC/test-npc.md",
-    "z_templates/location-template 1.md",
     "Pasted image 20251221000059.png",
     "z_assets/default-location.png",
     "z_assets/NPC/Designer.png",

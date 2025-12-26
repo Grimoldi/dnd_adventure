@@ -21,7 +21,7 @@ views:
 	    and:
         - file.folder == "NPC"
         - or:
-          - list(place).contains(this)
+          - list(city).contains(this)
           - list(place).contains(this)
       order:
 	    - file.name

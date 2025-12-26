@@ -8,7 +8,7 @@ banner-y: 35
 Resti diroccati di un paese più grande, nuovi edifici si sviluppano lunga il sentiero principale
 C'è un maniero (palazzo signorile, Tresenda) diroccato sul lato orientale, sul fianco di una collina.
 
-Borgomastro Arbin Wester
+Il borgomastro è [[Arbin Wester]], anche se pare non stia facendo molto per contrastare i [[Marchi rossi]], almeno a quanto sostiene [[Daran Edermath]].
 
 ## Personaggi collegati
 ```base
@@ -24,7 +24,7 @@ views:
       and:
         - file.folder == "NPC"
         - or:
-            - list(place).contains(this)
+            - list(city).contains(this)
             - list(place).contains(this)
     order:
       - file.name
