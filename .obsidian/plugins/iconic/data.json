@@ -117,8 +117,33 @@
       "icon": "lucide-shield-off"
     },
     {
-      "id": "dFj8p",
+      "id": "wFXoZ",
       "name": "Alive Enemy NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        },
+        {
+          "source": "property:sentiment",
+          "operator": "is",
+          "value": "Enemy"
+        },
+        {
+          "source": "property:status",
+          "operator": "is",
+          "value": "Alive"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-alert",
+      "color": "red"
+    },
+    {
+      "id": "dFj8p",
+      "name": "Alive Enemy NPC tag",
       "match": "all",
       "conditions": [
         {
@@ -133,13 +158,38 @@
     },
     {
       "id": "2Ze2r",
-      "name": "Alive Ally NPC",
+      "name": "Alive Ally NPC tag",
       "match": "all",
       "conditions": [
         {
           "source": "tags",
           "operator": "includes",
           "value": "npc/ally/alive"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-check",
+      "color": "green"
+    },
+    {
+      "id": "Ub9oS",
+      "name": "Alive Ally NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        },
+        {
+          "source": "property:status",
+          "operator": "is",
+          "value": "Alive"
+        },
+        {
+          "source": "property:sentiment",
+          "operator": "is",
+          "value": "Allied"
         }
       ],
       "enabled": true,
@@ -162,13 +212,33 @@
     },
     {
       "id": "LvpwR",
-      "name": "Unknown NPC",
+      "name": "Unknown NPC tag",
       "match": "all",
       "conditions": [
         {
           "source": "tags",
           "operator": "anyStartWith",
           "value": "npc/unknown"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-question",
+      "color": "yellow"
+    },
+    {
+      "id": "EbhDD",
+      "name": "Unknown NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "NPC"
+        },
+        {
+          "source": "property:status",
+          "operator": "is",
+          "value": "Unknown"
         }
       ],
       "enabled": true,

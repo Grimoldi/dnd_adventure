@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Phandalin.md",
+                "file": "NPC/Alia.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Alia"
             }
           },
           {
@@ -36,8 +36,7 @@
               "title": "Arbin Wester"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c837d2051eb38c37",
@@ -51,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sessions/C1 - 03 -.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -115,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -238,21 +236,21 @@
   },
   "active": "ebc0faf213259b30",
   "lastOpenFiles": [
+    "NPC/Alia.md",
+    "NPC/Yeemik.md",
+    "NPC/Toblen Stonehill.md",
+    "Places/Phandalin.md",
     "NPC/Arbin Wester.md",
     "Sessions/C1 - 03 -.md",
-    "Places/Phandalin.md",
     "NPC/Daran Edermath.md",
-    "NPC/Alia.md",
     "NPC/Gundren Rockseeker.md",
     "Campaign/C1 - Lost mines of Phandelver.md",
     "Groups/Marchi rossi.md",
     "Places/collina dei Cragmaw.md",
-    "NPC/Toblen Stonehill.md",
     "NPC/Klarg.md",
     "z_templates/location-template.md",
     "z_templates/npc-template.md",
     "Groups/Scudo del leone.md",
-    "NPC/Yeemik.md",
     "NPC/Elmar Barthen.md",
     "Groups/Alleanza dei Lord.md",
     "Groups/Cragmaw.md",
