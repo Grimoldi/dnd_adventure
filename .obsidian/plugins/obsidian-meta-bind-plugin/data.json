@@ -23,14 +23,33 @@
     },
     {
       "name": "template-npc-sentiment",
-      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Ally), \n  option(Enemy),\n  option(Unknown)\n)]"
+      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Ally), \n  option(Enemy),\n  option(Neutral),\n  option(Unknown)\n)]"
     },
     {
       "name": "template-person-race",
       "declaration": "INPUT[suggester(\n  option(null),\n  option(Human),\n  option(Elf),\n  option(Dwarf),\n  option(Halfling),\n  option(Gnome),\n  option(Half-Elf),\n  option(Half-Orc),\n  option(Tiefling),\n  allowOther\n)]"
     }
   ],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "NPC",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click to create a new NPC.",
+      "id": "button_person_npc",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_templates/npc-template.md",
+          "folderPath": "NPC",
+          "fileName": "New NPC",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    }
+  ],
   "excludedFolders": [
     "templates"
   ]

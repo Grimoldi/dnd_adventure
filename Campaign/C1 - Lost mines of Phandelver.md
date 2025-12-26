@@ -25,6 +25,9 @@ Luoghi:
 ---
 
 NPC:
+
+`BUTTON[button_person_npc]`
+
 ```base
 properties:
   file.name:

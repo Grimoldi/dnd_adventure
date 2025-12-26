@@ -21,7 +21,7 @@ Arrivati sul calar del giorno a [[Phandalin]], i quattro avventurieri consegnano
 
 Calando ormai le tenebre e sfiniti dal viaggio, il gruppo concorda di meritarsi un meritato riposo e di ripartire l'indomani mattina presto per tornare sul luogo dell'agguato.
 
-La mattina, all'atto della partenza, scorgono un nutrito gruppo di paesani darsi alla fuga asserendo che sia arrivata [[banda predoni]], una banda di predoni che affligge il paese da tempo.
+La mattina, all'atto della partenza, scorgono un nutrito gruppo di paesani darsi alla fuga asserendo che sia arrivata [[Marchi rossi]], una banda di predoni che affligge il paese da tempo.
 
 Il gruppo decide di ignorare per il momento la questione, preferendo dare priorità a ritrovare quello che immaginano essere il corpo di [[Gundren Rockseeker]].
 
