@@ -1,3 +1,8 @@
+---
+banner: https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/01/Dungeons-Dragons-Lost-Mines-Green-Dragon.jpg?q=50&fit=crop&w=1600&h=900&dpr=1.5
+banner-x: 47
+banner-y: 61
+---
 
 ---
 
