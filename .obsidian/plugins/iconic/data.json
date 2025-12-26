@@ -45,8 +45,14 @@
         "3946033a7d1bea43"
       ]
     },
-    "Campaign/C1 - Gli scuri.md": {
+    "Campaign/C1 - Lost mines of Phandelver.md": {
       "icon": "lucide-swords"
+    },
+    "Groups": {
+      "icon": "question-mark-glyph",
+      "unsynced": [
+        "3946033a7d1bea43"
+      ]
     },
     "NPC": {
       "icon": "lucide-baby",
@@ -84,12 +90,6 @@
       "unsynced": [
         "3946033a7d1bea43"
       ]
-    },
-    "Unchategorized": {
-      "icon": "question-mark-glyph",
-      "unsynced": [
-        "3946033a7d1bea43"
-      ]
     }
   },
   "bookmarkIcons": {},
@@ -97,6 +97,25 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [
+    {
+      "id": "7kq7p",
+      "name": "Dead Enemy NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:sentiment",
+          "operator": "is",
+          "value": "Enemy"
+        },
+        {
+          "source": "property:status",
+          "operator": "is",
+          "value": "Dead"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-off"
+    },
     {
       "id": "dFj8p",
       "name": "Alive Enemy NPC",
@@ -111,20 +130,6 @@
       "enabled": true,
       "icon": "lucide-shield-alert",
       "color": "red"
-    },
-    {
-      "id": "Qj8UO",
-      "name": "Dead Enemy NPC",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "npc/enemy/dead"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-shield-off"
     },
     {
       "id": "2Ze2r",

@@ -1,0 +1,33 @@
+---
+campaign:
+banner: z_assets/default-location.png
+banner-x: 53
+banner-y: 30
+---
+<% await tp.file.move("Places" + "/" + tp.file.title) %>
+# Bio
+
+## Personaggi collegati
+```base
+properties:
+	file.name:
+		displayName: People
+	note.race:
+		displayName: Race
+views:
+    - type: cards
+	  name: People - Cards
+	  filters:
+	    and:
+        - file.folder == "NPC"
+        - or:
+          - list(place).contains(this)
+          - list(place).contains(this)
+      order:
+	    - file.name
+	    - race
+	  image: note.portrait
+      imageFit: contain
+      cardSize: 170
+```
+

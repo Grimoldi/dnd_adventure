@@ -1,0 +1,37 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [
+    {
+      "name": "template-person-campaign",
+      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Oneshot), \n  option([[C1 - Lost mines of Phandelver]])\n)]"
+    },
+    {
+      "name": "template-person-status",
+      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Alive), \n  option(Dead),\n  option(Unknown)\n)]"
+    },
+    {
+      "name": "template-npc-sentiment",
+      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Ally), \n  option(Enemy),\n  option(Unknown)\n)]"
+    },
+    {
+      "name": "template-person-race",
+      "declaration": "INPUT[suggester(\n  option(null),\n  option(Human),\n  option(Elf),\n  option(Dwarf),\n  option(Halfling),\n  option(Gnome),\n  option(Half-Elf),\n  option(Half-Orc),\n  option(Tiefling),\n  allowOther\n)]"
+    }
+  ],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}
