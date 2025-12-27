@@ -48,6 +48,24 @@
         }
       ],
       "icon": "plus"
+    },
+    {
+      "label": "Location",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click to create a new Location.",
+      "id": "button_new_location",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_templates/location-template.md",
+          "folderPath": "Places",
+          "fileName": "New Location",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
     }
   ],
   "excludedFolders": [

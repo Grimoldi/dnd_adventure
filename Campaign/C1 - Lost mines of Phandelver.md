@@ -6,7 +6,8 @@ banner-y: 61
 
 ---
 
-Personaggi:
+## Personaggi:
+
 [[Ninnolo]]
 [[Thessobit]]
 [[Casanova]]
@@ -14,48 +15,34 @@ Personaggi:
 
 ---
 
-Sessioni:
-[[C1 - 01 - Un nuovo inizio]]
-[[C1 - 02 - Nel covo dei goblin]]
-
----
-
-Luoghi:
-[[Castello re Kroll]]
-[[collina dei Cragmaw]]
-[[Miniere arcane]]
-[[Neverwinter]]
-[[Phandalin]]
-
----
-
-NPC:
-
-`BUTTON[button_person_npc]`
+## Sessioni:
 
 ```base
 properties:
   file.name:
-    displayName: People
-  note.race:
-    displayName: Race
+    displayName: Session
 views:
-  - type: cards
-    name: People - Cards
+  - type: table
+    name: Sessions
     filters:
-	  and:
-        - file.folder == "NPC"
-        - list(campaign).contains(this)
+      and:
+        - file.folder == "Sessions"
     order:
       - file.name
-      - race
-    image: note.portrait
-    imageFit: contain
-```
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 315
 
+```
 ---
 
-Places:
+## Luoghi:
+
+`BUTTON[button_new_location]`
+
 ```base
 properties:
   file.name:
@@ -72,3 +59,33 @@ views:
     image: note.banner
     imageFit: cover
 ```
+
+---
+
+## NPC:
+
+`BUTTON[button_person_npc]`
+
+```base
+properties:
+  file.name:
+    displayName: People
+  note.race:
+    displayName: Race
+views:
+  - type: cards
+    name: People - Cards
+    filters:
+      and:
+        - file.folder == "NPC"
+        - list(campaign).contains(this)
+    order:
+      - file.name
+      - race
+    image: note.portrait
+    imageFit: contain
+    imageAspectRatio: 0.7
+
+```
+
+---

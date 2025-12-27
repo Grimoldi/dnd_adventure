@@ -2,8 +2,8 @@
 campaign: "[[C1 - Lost mines of Phandelver]]"
 race: Umano
 status: Alive
-sentiment: Unknown
-group:
+sentiment: Allied
+group: "[[Zhentalim]]"
 city: "[[Phandalin]]"
 place:
 portrait: z_assets/default-npc.png

@@ -1,5 +1,5 @@
 ---
-campaign:
+campaign: "[[C1 - Lost mines of Phandelver]]"
 banner: z_assets/default-location.png
 banner-x: 53
 banner-y: 30
