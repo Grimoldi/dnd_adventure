@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Daran Edermath.md",
+                "file": "Sessions/C1 - 03 - Esplorando Phandalin.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daran Edermath"
+              "title": "C1 - 03 - Esplorando Phandalin"
             }
           }
         ]
@@ -200,13 +200,16 @@
   },
   "active": "a40f53ae8019be33",
   "lastOpenFiles": [
-    "NPC/Arbin Wester.md",
-    "NPC/Alia.md",
-    "Groups/Alleanza dei Lord.md",
+    "z_templates/session-template.md",
+    "Sessions/C1 - 03 - Esplorando Phandalin.md",
     "Campaign/C1 - Lost mines of Phandelver.md",
+    "z_templates/location-template.md",
+    "NPC/Alia.md",
+    "NPC/Daran Edermath.md",
+    "NPC/Arbin Wester.md",
+    "Groups/Alleanza dei Lord.md",
     "Sessions/C1 - 01 - Un nuovo inizio.md",
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
-    "Sessions/C1 - 03 - Esplorando Phandalin.md",
     "PC/Tanz.md",
     "PC/Thessobit.md",
     "PC/Ninnolo.md",
@@ -221,11 +224,8 @@
     "Groups/Marchi rossi.md",
     "Groups/Cragmaw.md",
     "NPC/Yeemik.md",
-    "z_templates/location-template.md",
     "Missioni.md",
     "Places/Pozzo del vecchio gufo.md",
-    "Places/Tor della Viverna.md",
-    "Places/Phandalin.md",
     "z_assets/Places/collina_dei_cramaw.png",
     "z_assets/Places/Designer(1).png",
     "z_assets/default-npc.png",

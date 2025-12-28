@@ -37,9 +37,12 @@ Gli orchi sono stati avvistati a [[Tor della Viverna]], un località a nord-est 
 
 Il gruppo comunica ad [[Alia]] di accettare l'incarico.
 
+> [!question] 
 > Durante il colloquio, [[Alia]] beve del vino, quando in paese è del tutto assente.
+> Com'è possibile?
 
 L'indomani, il gruppo si dirige a Nord, verso il [[Tor della Viverna]] ed il [[pozzo del vecchio gufo]], dove contano di liberare [[Phandalin]] dagli orchi e di indagare sugli avvistamenti di non morti.
 
+![Uccelli stigei](https://www.dndbeyond.com/avatars/thumbnails/47139/273/1000/1000/638741964683293393.png)
 Lungo il tragitto, nella prima notte, gli avventurieri vengono attaccati da uno stormo di Uccelli stigei.
 [[Casanova]], castando sonno, dimezza lo stormo, permettendo al gruppo di sopraffarli facilmente.
