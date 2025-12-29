@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Klarg.md",
-                "mode": "preview",
+                "file": "Timeline.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Klarg"
+              "title": "Timeline"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -200,12 +201,22 @@
   },
   "active": "a40f53ae8019be33",
   "lastOpenFiles": [
+    "Missioni.md",
+    "Map.md",
+    "Places/collina dei Cragmaw.md",
+    "Places/Tor della Viverna.md",
+    "ZoomMap/SVGs/fontawesome-free.zip",
+    "ZoomMap/SVGs",
+    "ZoomMap",
+    "Timeline.md",
+    "Places/Phandalin.md",
+    "z_assets/detailed-map.png.markers.json",
+    "NPC/Klarg.md",
     "z_assets/detailed-map.png",
     "z_assets/map.webp",
     "NPC/Toblen Stonehill.md",
     "Campaign/C1 - Lost mines of Phandelver.md",
     "Groups/Marchi rossi.md",
-    "NPC/Klarg.md",
     "NPC/Klarg 1.md",
     "NPC/Ragno Nero.md",
     "z_templates/npc-template.md",
@@ -222,11 +233,6 @@
     "NPC/Daran Edermath.md",
     "NPC/Arbin Wester.md",
     "Groups/Alleanza dei Lord.md",
-    "PC/Tanz.md",
-    "PC/Thessobit.md",
-    "PC/Ninnolo.md",
-    "PC/Casanova.md",
-    "srd/compendium/classes/bard-xphb.md",
     "z_assets/Places/collina_dei_cramaw.png",
     "z_assets/Places/Designer(1).png",
     "z_assets/default-npc.png",
@@ -235,16 +241,11 @@
     "Pasted image 20251221000059.png",
     "z_assets/default-location.png",
     "z_assets/NPC/Designer.png",
-    "z_assets/PC/wrenn.png",
     "z_assets/Places",
     "z_assets/NPC",
     "srd/rules/variant-rules",
     "srd/rules",
     "srd/compendium/traps-hazards",
-    "srd/compendium/tables",
-    "srd/compendium/spells",
-    "srd/compendium/races",
-    "srd/compendium/optional-features",
-    "srd/compendium/lists"
+    "srd/compendium/tables"
   ]
 }

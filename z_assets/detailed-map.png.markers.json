@@ -1,0 +1,103 @@
+{
+  "image": "z_assets/detailed-map.png",
+  "size": {
+    "w": 1143,
+    "h": 543
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_x6rre7",
+      "name": "cities",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_wmx4ab",
+      "x": 0.32419856290941684,
+      "y": 0.5208750330069106,
+      "layer": "layer_x6rre7",
+      "link": "Phandalin",
+      "iconKey": "pinBlue",
+      "tooltip": "Phandalin",
+      "scaleLikeSticker": true,
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_h79m5x",
+      "x": 0.2894823028635933,
+      "y": 0.6200903917245361,
+      "layer": "layer_x6rre7",
+      "link": "collina dei Cragmaw",
+      "iconKey": "pinRed",
+      "tooltip": "collina dei Cragmaw",
+      "scaleLikeSticker": true,
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_8v8073",
+      "x": 0.363180673934053,
+      "y": 0.4184889563852741,
+      "layer": "layer_x6rre7",
+      "link": "Pozzo del vecchio gufo",
+      "iconKey": "pinRed",
+      "tooltip": "pozzo del vecchio gufo",
+      "tooltipAlwaysOn": true,
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_e30ffz",
+      "x": 0.39405838305395224,
+      "y": 0.5268168309219372,
+      "layer": "layer_x6rre7",
+      "link": "Tor della Viverna",
+      "iconKey": "pinRed",
+      "tooltip": "tor della Viverna",
+      "scaleLikeSticker": true,
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_ghtllx",
+      "x": 0.17407339247015605,
+      "y": 0.18369420194089175,
+      "layer": "layer_x6rre7",
+      "link": "Neverwinter",
+      "iconKey": "pinBlue",
+      "tooltip": "Neverwinter",
+      "scaleLikeSticker": true,
+      "tooltipAlwaysOn": true
+    }
+  ],
+  "bases": [
+    {
+      "path": "z_assets/detailed-map.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_assets/detailed-map.png",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "travelTimePresetIds": []
+  },
+  "pinSizeOverrides": {
+    "pinBlue": 36,
+    "pinRed": 36
+  },
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
