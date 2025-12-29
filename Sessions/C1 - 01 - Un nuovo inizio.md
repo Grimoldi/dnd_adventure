@@ -1,5 +1,17 @@
-
 ---
+campaign: "[[C1 - Lost mines of Phandelver]]"
+banner: https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/10/RPG-group-2-scaled-1-1024x614-1.jpg?w=1024&ssl=1
+banner-x: 56
+banner-y: 33
+session: 1
+---
+
+# Summary
+
+> [!summary] 
+> test
+
+## Detailed log
 
 In uno dei primi giorni di Autunno, [[Ninnolo]], [[Thessobit]], [[Tanz]] e [[Casanova]] si ritrovano loro malgrado insieme alla locanda Teschio di Troll, gestita da [[Tresp]] a [[Neverwinter]], su invito del nano [[Gundren Rockseeker]], che prospetta loro un incarico remunerativo.
 

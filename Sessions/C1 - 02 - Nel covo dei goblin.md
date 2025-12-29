@@ -1,6 +1,17 @@
-
+---
+campaign: "[[C1 - Lost mines of Phandelver]]"
+banner: https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/10/RPG-group-2-scaled-1-1024x614-1.jpg?w=1024&ssl=1
+banner-x: 56
+banner-y: 33
+session: 2
 ---
 
+# Summary
+
+> [!summary] 
+> test
+
+## Detailed log
 Risalendo all'interno dei cunicoli, il gruppo si scontra con un gruppo di goblin a guardia di un sistema di chiuse e dighe, riuscendo ad evitare che queste vengano aperte e di ritrovarsi sommerso.
 
 Subito dopo, si ritrovano in una grande stanza, in cui si scontrano con bugbear, il suo lupo e due goblin.

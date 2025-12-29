@@ -17,6 +17,8 @@ banner-y: 61
 
 ## Sessioni:
 
+`BUTTON[button_new_session]`
+
 ```base
 properties:
   file.name:
@@ -64,7 +66,7 @@ views:
 
 ## NPC:
 
-`BUTTON[button_person_npc]`
+`BUTTON[button_new_npc]`
 
 ```base
 properties:

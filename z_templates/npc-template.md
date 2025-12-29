@@ -8,7 +8,6 @@ city:
 place:
 portrait: z_assets/default-npc.png
 ---
-<% await tp.file.move("NPC" + "/" + tp.file.title) %>
 
 > [!infobox|right]
 > `VIEW[{portrait}][image]`

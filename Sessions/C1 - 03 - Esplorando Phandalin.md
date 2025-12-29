@@ -1,6 +1,17 @@
-
+---
+campaign: "[[C1 - Lost mines of Phandelver]]"
+banner: https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/10/RPG-group-2-scaled-1-1024x614-1.jpg?w=1024&ssl=1
+banner-x: 56
+banner-y: 33
+session: 3
 ---
 
+# Summary
+
+> [!summary] 
+> test
+
+## Detailed log
 Riportato [[Sildar Hallwinter]] a [[Phandalin]], il gruppo si vede offerto un piccolo ristoro nella locanda Stonehill.
 Parlando con l'oste, il gruppo viene a conoscenza de i [[Marchi rossi]], un gruppo di facinorosi, che spadroneggia nella cittadina.
 All'improvviso una donna, la moglie dell'oste ([[Toblen Stonehill#Trilena]]), si intrattiene con [[Tanz]] con toni netti, ma non scontrosi.
@@ -43,6 +54,6 @@ Il gruppo comunica ad [[Alia]] di accettare l'incarico.
 
 L'indomani, il gruppo si dirige a Nord, verso il [[Tor della Viverna]] ed il [[pozzo del vecchio gufo]], dove contano di liberare [[Phandalin]] dagli orchi e di indagare sugli avvistamenti di non morti.
 
-![Uccelli stigei](https://www.dndbeyond.com/avatars/thumbnails/47139/273/1000/1000/638741964683293393.png)
+![](https://www.dndbeyond.com/avatars/thumbnails/47139/273/1000/1000/638741964683293393.png)
 Lungo il tragitto, nella prima notte, gli avventurieri vengono attaccati da uno stormo di Uccelli stigei.
 [[Casanova]], castando sonno, dimezza lo stormo, permettendo al gruppo di sopraffarli facilmente.

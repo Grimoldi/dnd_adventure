@@ -36,7 +36,7 @@
       "hidden": false,
       "class": "",
       "tooltip": "Click to create a new NPC.",
-      "id": "button_person_npc",
+      "id": "button_new_npc",
       "style": "primary",
       "actions": [
         {
@@ -62,6 +62,24 @@
           "templateFile": "z_templates/location-template.md",
           "folderPath": "Places",
           "fileName": "New Location",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
+    },
+    {
+      "label": "Session",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click to create a new Session.",
+      "id": "button_new_session",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_templates/session-template.md",
+          "folderPath": "Sessions",
+          "fileName": "New Session",
           "openNote": true
         }
       ],
