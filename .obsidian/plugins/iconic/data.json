@@ -99,13 +99,13 @@
   "fileRules": [
     {
       "id": "7kq7p",
-      "name": "Dead Enemy NPC",
+      "name": "Dead NPC",
       "match": "all",
       "conditions": [
         {
-          "source": "property:sentiment",
-          "operator": "is",
-          "value": "Enemy"
+          "source": "path",
+          "operator": "startsWith",
+          "value": "NPC/"
         },
         {
           "source": "property:status",
@@ -118,73 +118,33 @@
     },
     {
       "id": "wFXoZ",
-      "name": "Alive Enemy NPC",
+      "name": "Enemy NPC",
       "match": "all",
       "conditions": [
         {
           "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "operator": "startsWith",
+          "value": "NPC/"
         },
         {
           "source": "property:sentiment",
           "operator": "is",
           "value": "Enemy"
-        },
-        {
-          "source": "property:status",
-          "operator": "is",
-          "value": "Alive"
         }
       ],
       "enabled": true,
       "icon": "lucide-shield-alert",
       "color": "red"
-    },
-    {
-      "id": "dFj8p",
-      "name": "Alive Enemy NPC tag",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "npc/enemy/alive"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-shield-alert",
-      "color": "red"
-    },
-    {
-      "id": "2Ze2r",
-      "name": "Alive Ally NPC tag",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "npc/ally/alive"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-shield-check",
-      "color": "green"
     },
     {
       "id": "Ub9oS",
-      "name": "Alive Ally NPC",
+      "name": "Ally NPC",
       "match": "all",
       "conditions": [
         {
           "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
-        },
-        {
-          "source": "property:status",
-          "operator": "is",
-          "value": "Alive"
+          "operator": "startsWith",
+          "value": "NPC/"
         },
         {
           "source": "property:sentiment",
@@ -197,46 +157,17 @@
       "color": "green"
     },
     {
-      "id": "CuZkU",
-      "name": "Dead Ally NPC",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "tags",
-          "operator": "includes",
-          "value": "npc/ally/dead"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-shield"
-    },
-    {
-      "id": "LvpwR",
-      "name": "Unknown NPC tag",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "tags",
-          "operator": "anyStartWith",
-          "value": "npc/unknown"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-shield-question",
-      "color": "yellow"
-    },
-    {
       "id": "EbhDD",
       "name": "Unknown NPC",
       "match": "all",
       "conditions": [
         {
           "source": "tree",
-          "operator": "contains",
-          "value": "NPC"
+          "operator": "startsWith",
+          "value": "NPC/"
         },
         {
-          "source": "property:status",
+          "source": "property:sentiment",
           "operator": "is",
           "value": "Unknown"
         }
@@ -244,6 +175,26 @@
       "enabled": true,
       "icon": "lucide-shield-question",
       "color": "yellow"
+    },
+    {
+      "id": "r2D9G",
+      "name": "Neutral NPC",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "startsWith",
+          "value": "NPC/"
+        },
+        {
+          "source": "property:sentiment",
+          "operator": "is",
+          "value": "neutral"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-half",
+      "color": "cyan"
     }
   ],
   "folderRules": []

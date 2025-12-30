@@ -9,19 +9,27 @@ place:
 portrait: z_assets/default-npc.png
 ---
 
-
-> [!infobox|right]
+> [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
 > `VIEW[{portrait}][image]`
 > 
+> ### Meta Information
+> | | |
+> | --- | --- |
+> | Campaign | `= this.campaign` |
+>
+> ### Campaign information
+> | | |
+> | --- | --- |
+> | Race | `INPUT[template-person-race][:race]` |
+> | Status | `INPUT[template-person-status][:status]` |
+> | Sentiment | `INPUT[template-npc-sentiment][:sentiment]` |
+> | Group | `= this.group` |
+> | City | `= this.city` |
+> | Place | `= this.place` | 
+> 
+>> [!footer]
 >> Oste de "La Locanda Stonehill".
-
-> Campaign: `INPUT[template-person-campaign][:campaign]`
-> Race: `INPUT[template-person-race][:race]`
-> Status: `INPUT[template-person-status][:status]`
-> Sentiment: `INPUT[template-npc-sentiment][:sentiment]`
-> Group: `INPUT[text:group]`
-> Place: `INPUT[text:place]`
-
+>> 
 
 ---
 # Bio

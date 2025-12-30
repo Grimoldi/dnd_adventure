@@ -2,10 +2,10 @@
 campaign: "[[C1 - Lost mines of Phandelver]]"
 race:
 status: Alive
-sentiment: Enemy
-group:
+sentiment: Neutral
+group: "[[Scudo del leone]]"
 city:
-place:
+place: "[[Phandalin]]"
 portrait: z_assets/default-npc.png
 ---
 
@@ -28,15 +28,10 @@ portrait: z_assets/default-npc.png
 > | Place | `= this.place` | 
 > 
 >> [!footer]
->> Non si conosce nulla di lui.
+>> This NPC has done so little...
 
 
 ---
 # Bio
 
-Personaggio ad ora sconosciuto.
-
-L'unica cosa che si sa è che l'ordine a [[Re Groll]] di catturare [[Gundren Rockseeker]] è partito da lui.
-
-Verosimilmente il suo obiettivo sono le [[Miniere arcane]], dal momento che è ha espressamente richiesto anche la mappa che il nano portava con se.
 

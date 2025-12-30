@@ -1,28 +1,35 @@
 ---
-tags:
-  - tribe/Cragmaw
-  - npc/enemy/alive
+campaign: "[[C1 - Lost mines of Phandelver]]"
+race: Goblin
+status: Unknown
+sentiment: Enemy
+group: "[[Cragmaw]]"
+city:
+place:
+portrait: z_assets/default-npc.png
 ---
 
----
-
-> [!infobox|right]
-> # Name
-> ![[default-npc.png|cover hsmall]]
-> ###### Stats
-> | Type | Stat |
-> | ---- | ---- |
-> | Strenght | 10 |
-> | Dexterity | 10 |
-> | Constitution | 10 |
-> | Intelligence | 10 |
-> | Wisdom | 10 |
-> | Charisma | 10 |
+> [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
+> `VIEW[{portrait}][image]`
 > 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> ### Meta Information
+> | | |
+> | --- | --- |
+> | Campaign | `= this.campaign` |
+>
+> ### Campaign information
+> | | |
+> | --- | --- |
+> | Race | `INPUT[template-person-race][:race]` |
+> | Status | `INPUT[template-person-status][:status]` |
+> | Sentiment | `INPUT[template-npc-sentiment][:sentiment]` |
+> | Group | `= this.group` |
+> | City | `= this.city` |
+> | Place | `= this.place` | 
+> 
+>> [!footer]
+>> Re della tribù dei [[Cragmaw]].
 
-[[Castello di re Kroll]]
+
+---
+# Bio
