@@ -1,11 +1,11 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race: Goblin
-status: Unknown
-sentiment: Enemy
-group: "[[Cragmaw]]"
+race:
+status: Alive
+sentiment: Unknown
+group: "[[Marchi rossi]]"
 city:
-place: "[[Castello di re Groll]]"
+place:
 portrait: z_assets/default-npc.png
 ---
 
@@ -28,8 +28,11 @@ portrait: z_assets/default-npc.png
 > | Place | `= this.place` | 
 > 
 >> [!footer]
->> Re della tribù dei [[Cragmaw]].
-
+>> Leader dei [[Marchi rossi]].
 
 ---
 # Bio
+
+Capo dei [[Marchi rossi]], si vocifera sia anche colui che dia ordini a [[Re Groll]].
+
+> [!hint] Può essere lui [[emissario Ragno Nero]]?

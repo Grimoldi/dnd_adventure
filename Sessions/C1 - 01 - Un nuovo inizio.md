@@ -54,6 +54,6 @@ D'accordo con i compagni, tornano all'ingresso del cunicolo, riuscendo a sopraff
 
 Qui apprendono che i loro timori sono fondati ed è proprio [[Gundren Rockseeker]] che è stato rapito su ordine di [[Re Groll]], il re dei goblin.
 
-Il nano non si trova però nella collina, in quanto è già in viaggio verso [[Castello di re Kroll]], il castello di [[Re Groll]]. All'interno vi sono solo [[Klarg]], un bugbear a capo della banda, e [[Sildar Hallwinter]], l'uomo che stava accompagnando [[Gundren Rockseeker]].
+Il nano non si trova però nella collina, in quanto è già in viaggio verso [[Castello di re Groll]], il castello di [[Re Groll]]. All'interno vi sono solo [[Klarg]], un bugbear a capo della banda, e [[Sildar Hallwinter]], l'uomo che stava accompagnando [[Gundren Rockseeker]].
 
 Il gruppo decide di salvare l'uomo, per poter avere qualche informazione maggiore, e di cercare di sconfiggere [[Klarg]] senza però ucciderlo, in modo da poterlo interrogare.

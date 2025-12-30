@@ -12,7 +12,7 @@ session: 2
 > All'interno della [[collina dei Cragmaw]], il gruppo si scontra con due capi del gruppo di razziatori, [[Klarg]] il bugbear e [[Yeemik]] il goblin.
 > Pur rischiando la pelle più volte, i quattro avventurieri riescono a sconfiggere entrambi ed a liberare la pista dalla minaccia della banda.
 > I due viaggiatori assaliti in precedenza dai goblin risultano essere [[Gundren Rockseeker]] e [[Sildar Hallwinter]], entrambi in viaggio verso [[Phandalin]].
-> Se l'umano viene salvato, non si può dire lo stesso del nano, di cui si scopre che è stato spostato verso [[Castello di re Kroll]].
+> Se l'umano viene salvato, non si può dire lo stesso del nano, di cui si scopre che è stato spostato verso [[Castello di re Groll]].
 > Dal momento che [[Sildar Hallwinter]] non è in condizione di arrivare da solo a [[Phandalin]], il gruppo decide di accompagnarlo.
 
 

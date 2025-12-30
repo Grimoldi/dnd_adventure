@@ -17,6 +17,10 @@ properties:
     displayName: People
   note.race:
     displayName: Race
+  note.status:
+    displayName: Status
+  note.sentiment:
+    displayNmae: Sentiment
 views:
   - type: cards
     name: People - Cards
@@ -24,10 +28,12 @@ views:
       and:
         - file.folder == "NPC"
         - or:
-            - list(city).contains(this)
             - list(place).contains(this)
+            - list(city).contains(this)
     order:
       - file.name
+      - status
+      - sentiment
       - race
     image: note.portrait
     imageFit: contain

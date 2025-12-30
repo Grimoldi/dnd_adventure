@@ -10,24 +10,30 @@ banner-y: 30
 ## Personaggi collegati
 ```base
 properties:
-	file.name:
-		displayName: People
-	note.race:
-		displayName: Race
+  file.name:
+    displayName: People
+  note.race:
+    displayName: Race
+  note.status:
+    displayName: Status
+  note.sentiment:
+    displayNmae: Sentiment
 views:
-    - type: cards
-	  name: People - Cards
-	  filters:
-	    and:
+  - type: cards
+    name: People - Cards
+    filters:
+      and:
         - file.folder == "NPC"
         - or:
-          - list(city).contains(this)
-          - list(place).contains(this)
-      order:
-	    - file.name
-	    - race
-	  image: note.portrait
-      imageFit: contain
-      cardSize: 170
+            - list(place).contains(this)
+            - list(city).contains(this)
+    order:
+      - file.name
+      - status
+      - sentiment
+      - race
+    image: note.portrait
+    imageFit: contain
+    cardSize: 170
 ```
 

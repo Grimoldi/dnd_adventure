@@ -2,7 +2,7 @@
 campaign: "[[C1 - Lost mines of Phandelver]]"
 race:
 status: Unknown
-sentiment: Unknown
+sentiment: Enemy
 group:
 city:
 place:

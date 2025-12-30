@@ -28,7 +28,7 @@ portrait: z_assets/default-npc.png
 > | Place | `= this.place` | 
 > 
 >> [!footer]
->> This NPC has done so little...
+>> Gestrice della sede della gilda a [[Phandalin]].
 
 
 ---

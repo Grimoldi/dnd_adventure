@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Linene.md",
+                "file": "Places/Neverwinter.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linene"
-            }
-          },
-          {
-            "id": "d1f6ae7cee2184a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Scudo del leone.md",
-                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scudo del leone"
+              "title": "Neverwinter"
             }
           }
         ]
@@ -214,32 +200,33 @@
   },
   "active": "a40f53ae8019be33",
   "lastOpenFiles": [
-    "Groups/Scudo del leone.md",
-    "NPC/Linene.md",
-    "Campaign/C1 - Lost mines of Phandelver.md",
+    "Places/Phandalin.md",
+    "Places/Neverwinter.md",
+    "Places/Tor della Viverna.md",
+    "Places/Pozzo del vecchio gufo.md",
+    "Places/Miniere arcane.md",
+    "Places/collina dei Cragmaw.md",
+    "Places/Castello di re Groll.md",
+    "z_templates/location-template.md",
+    "z_templates/npc-template.md",
     "z_templates/session-template.md",
+    "z_assets/Places/collina_dei_cragmaw.png",
+    "Sessions/C1 - 03 - Esplorando Phandalin.md",
+    "Sessions/C1 - 02 - Nel covo dei goblin.md",
+    "Sessions/C1 - 01 - Un nuovo inizio.md",
+    "NPC/Re Groll.md",
+    "NPC/Tresp.md",
+    "NPC/emissario Ragno Nero.md",
+    "NPC/Bastone di vetro.md",
+    "Campaign/C1 - Lost mines of Phandelver.md",
+    "NPC/Linene.md",
+    "Groups/Zhentalim.md",
+    "Groups/Scudo del leone.md",
     "Groups/Marchi rossi.md",
     "Groups/Cragmaw.md",
     "Groups/Alleanza dei Lord.md",
-    "Groups/Zhentalim.md",
     "NPC/Alia.md",
     "Current Campaign/Timeline.md",
-    "Current Campaign/Missioni.md",
-    "NPC/Gundren Rockseeker.md",
-    "Current Campaign/Mappa Neverwinter e Phandalin.md",
-    "NPC/Yeemik.md",
-    "NPC/Tresp.md",
-    "NPC/Toblen Stonehill.md",
-    "NPC/Sildar Hallwinter.md",
-    "NPC/Re Groll.md",
-    "NPC/Ragno Nero.md",
-    "NPC/mendicante.md",
-    "NPC/Arbin Wester.md",
-    "NPC/Klarg.md",
-    "NPC/Iarno Albrek.md",
-    "NPC/emissario Ragno Nero.md",
-    "NPC/Elmar Barthen.md",
-    "NPC/Daran Edermath.md",
     "scripts/test.js",
     "scripts/New Documento di testo.txt",
     "scripts/fm_property_link_from_notes_list.js",
@@ -256,7 +243,6 @@
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/worm.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/wrench.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/scss/_variables.scss",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/scss/_sizing.scss"

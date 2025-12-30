@@ -16,7 +16,7 @@ session: 3
 > - un gruppo di orchi minaccia a nord la città
 > - voci narrano di una presenza di non morti poco a nord della città
 >
-> Gli avventurieri decidono di concentrarsi sugli eventi a nord di [[Phandalin]] e una mattina esce dalla città, sulla pista diretta a settentrione.
+> Gli avventurieri decidono di concentrarsi sugli eventi a nord di [[Phandalin]] e una mattina esce dalla città, sulla pista diretta a settentrione, dirigendosi verso [[Pozzo del vecchio gufo]] e [[Tor della Viverna]].
 
 ---
 
@@ -40,7 +40,7 @@ Nel recarsi verso la borsa dei minatori, il gruppo affronta un gruppo di quattro
 
 [[Casanova]] e [[Thessobit]] entrano a vendere i preziosi recuperati da [[collina dei Cragmaw]], ma vengono portati sul retro.
 [[Ninnolo]] e [[Tanz]] vengono chiamati ed il gruppo si trova davanti ad [[Alia]].
-Questa li informa che [[Re Groll]] è soldo di una figura ignota, nota come Bastone di vetro, che è anche a capo dei [[Marchi rossi]], il cui covo pare si trovi sotto il maniero Tresenda.
+Questa li informa che [[Re Groll]] è soldo di una figura ignota, nota come [[Bastone di vetro]], che è anche a capo dei [[Marchi rossi]], il cui covo pare si trovi sotto il maniero Tresenda.
 
 La donna propone una ricompensa per la sconfitta dei [[Marchi rossi]] e tutti i documenti appartenenti a Bastone di vetro.
 
@@ -50,12 +50,12 @@ Prima di poter confermare l'intenzione di accettare la missione, il gruppo è in
 
 Nell'entrare, notano un avviso di taglia verso una banda di orchi, poco fuori dalla città.
 
-[[Arbin Wester]] nega qualunque problema relativo ai [[Marchi rossi]] in città, e chiede al gruppo di liberare la cittadina.
-Gli orchi sono stati avvistati a [[Tor della Viverna]], un località a nord-est di [[Phandalin]], lungo la pista di Triboar.
+[[Arbin Wester]] nega qualunque problema relativo ai [[Marchi rossi]] in città,  anzi, chiede che il gruppo non ne causi cercando scaramucce con loro.
+Chiede piuttosto aiuto per liberare la cittadina dalla minaccia degli orchi, avvistati a [[Tor della Viverna]], un località a nord-est di [[Phandalin]], lungo la pista di Triboar.
 
-[[Sildar Hallwinter]], che alloggia dal borgomastro, dice che il suo amico [[Iarno Albrek]] è scomparso un paio di mesi prima, nei pressi del maniero.
+[[Sildar Hallwinter]], che alloggia dal borgomastro, dice che il suo amico [[Iarno Albrek]] è scomparso un paio di mesi prima, nei pressi del maniero o più verosimilmente al di sotto di esso.
 
-Il gruppo comunica ad [[Alia]] di accettare l'incarico.
+Salutato l'umano, il gruppo comunica ad [[Alia]] di accettare l'incarico.
 
 > [!question] 
 > Durante il colloquio, [[Alia]] beve del vino, quando in paese è del tutto assente.
