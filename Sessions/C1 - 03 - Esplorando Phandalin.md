@@ -9,7 +9,16 @@ session: 3
 # Summary
 
 > [!summary] 
-> test
+> Arrivati a [[Phandalin]], i quattro avventurieri scoprono una città, che seppur in decadenza, presenta molte sfaccettature e attività in fermento.
+> Qui scoprono che:
+> - un gruppo cittadino, i [[Marchi rossi]], spadroneggia in città
+> - la commerciante che gestisce la _borsa dei minatori_ fa parte degli [[Zhentalim]] ed è in conflitto con i [[Marchi rossi]]
+> - un gruppo di orchi minaccia a nord la città
+> - voci narrano di una presenza di non morti poco a nord della città
+>
+> Gli avventurieri decidono di concentrarsi sugli eventi a nord di [[Phandalin]] e una mattina esce dalla città, sulla pista diretta a settentrione.
+
+---
 
 ## Detailed log
 Riportato [[Sildar Hallwinter]] a [[Phandalin]], il gruppo si vede offerto un piccolo ristoro nella locanda Stonehill.

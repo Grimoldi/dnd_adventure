@@ -9,18 +9,26 @@ place:
 portrait: z_assets/default-npc.png
 ---
 
-
-> [!infobox|right]
+> [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
 > `VIEW[{portrait}][image]`
 > 
+> ### Meta Information
+> | | |
+> | --- | --- |
+> | Campaign | `= this.campaign` |
+>
+> ### Campaign information
+> | | |
+> | --- | --- |
+> | Race | `INPUT[template-person-race][:race]` |
+> | Status | `INPUT[template-person-status][:status]` |
+> | Sentiment | `INPUT[template-npc-sentiment][:sentiment]` |
+> | Group | `= this.group` |
+> | City | `= this.city` |
+> | Place | `= this.place` | 
+> 
+>> [!footer]
 >> Vecchio guerriero, ormai ritirato.
-
-> Campaign: `INPUT[template-person-campaign][:campaign]`
-> Race: `INPUT[template-person-race][:race]`
-> Status: `INPUT[template-person-status][:status]`
-> Sentiment: `INPUT[template-npc-sentiment][:sentiment]`
-> Group: `INPUT[text:group]`
-> Place: `INPUT[text:place]`
 
 
 ---
@@ -29,3 +37,5 @@ portrait: z_assets/default-npc.png
 Vecchio guerriero, ormai ritiratosi a vita privata in un frutteto a nord di [[Phandalin]].
 
 Si è opposto ai [[Marchi rossi]], ma senza successo.
+
+Mal sopporta [[Arbin Wester]], per la sua incapacità (o mancanza di volersi) ad opporre ai [[Marchi rossi]]. 

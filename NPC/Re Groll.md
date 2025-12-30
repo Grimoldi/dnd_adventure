@@ -25,4 +25,4 @@ tags:
 > | Test | Testing |
 > | Test | Testing |
 
-[[Castello re Kroll]]
+[[Castello di re Kroll]]

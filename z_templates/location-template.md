@@ -1,10 +1,10 @@
+<%* await tp.user.fm_property_link_from_notes_list(tp, "Campaign", "campaign") _%>
 ---
 campaign:
 banner: z_assets/default-location.png
 banner-x: 53
 banner-y: 30
 ---
-
 # Bio
 
 ## Personaggi collegati

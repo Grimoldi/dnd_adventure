@@ -1,9 +1,3 @@
----
-tags:
----
-
----
-
 Chiedono il pizzo a [[Phandalin]] tranne alla borsa dei minatori (tipo piazza affari) gestita da [[Alia]].
 L'ultimo che ha subito violenza è un falegname (Tell Dendral), ucciso, a cui hanno stuprato la moglie e portato via il figlio.
 

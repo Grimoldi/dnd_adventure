@@ -33,7 +33,7 @@ views:
       - file.name
       - file.ctime
     sort:
-      - property: file.ctime
+      - property: file.name
         direction: DESC
     columnSize:
       file.name: 315

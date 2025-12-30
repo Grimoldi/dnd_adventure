@@ -5,11 +5,13 @@ banner-x: 56
 banner-y: 33
 session:
 ---
-
+<% tp.user.fm_property_link_from_notes_list(tp, "Campaign", "campaign") %>
 # Summary
 
 > [!summary] 
-> test
+> 
+
+---
 
 ## Detailed log
 

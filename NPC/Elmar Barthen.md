@@ -1,6 +1,6 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race: Umano
+race: Human
 status: Alive
 sentiment: Neutral
 group:
@@ -9,18 +9,26 @@ place:
 portrait: z_assets/default-npc.png
 ---
 
-
-> [!infobox|right]
+> [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
 > `VIEW[{portrait}][image]`
 > 
->> This NPC has done so little...
-
-> Campaign: `INPUT[template-person-campaign][:campaign]`
-> Race: `INPUT[template-person-race][:race]`
-> Status: `INPUT[template-person-status][:status]`
-> Sentiment: `INPUT[template-npc-sentiment][:sentiment]`
-> Group: `INPUT[text:group]`
-> Place: `INPUT[text:place]`
+> ### Meta Information
+> | | |
+> | --- | --- |
+> | Campaign | `= this.campaign` |
+>
+> ### Campaign information
+> | | |
+> | --- | --- |
+> | Race | `INPUT[template-person-race][:race]` |
+> | Status | `INPUT[template-person-status][:status]` |
+> | Sentiment | `INPUT[template-npc-sentiment][:sentiment]` |
+> | Group | `= this.group` |
+> | City | `= this.city` |
+> | Place | `= this.place` | 
+> 
+>> [!footer]
+>> Gestione dell'emporio di [[Phandalin]].
 
 
 ---

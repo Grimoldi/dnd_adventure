@@ -9,7 +9,12 @@ session: 1
 # Summary
 
 > [!summary] 
-> test
+> L'avventura ha inizio.
+> A Neverwinter un quartetto di avventurieri si riunisce a, su indicazione di [[Gundren Rockseeker]], scortare un carro di viveri alla cittadina di [[Phandalin]].
+> Sulla via, il gruppo viene attaccato da un gruppo di goblin, che risultano far parte della banda [[Cragmaw]], comandata da [[Re Groll]] e che hanno assaltato una coppia di viaggiatori poco precedentemente.
+> Desiderosi di accertarsi delle condizioni dei due umanoidi assaliti, i quattro si avviano all'imbocco della base dei golin, scavata all'interno di una collina lunga la pista Triboar.
+
+---
 
 ## Detailed log
 
@@ -49,6 +54,6 @@ D'accordo con i compagni, tornano all'ingresso del cunicolo, riuscendo a sopraff
 
 Qui apprendono che i loro timori sono fondati ed è proprio [[Gundren Rockseeker]] che è stato rapito su ordine di [[Re Groll]], il re dei goblin.
 
-Il nano non si trova però nella collina, in quanto è già in viaggio verso [[Castello re Kroll]], il castello di [[Re Groll]]. All'interno vi sono solo [[Klarg]], un bugbear a capo della banda, e [[Sildar Hallwinter]], l'uomo che stava accompagnando [[Gundren Rockseeker]].
+Il nano non si trova però nella collina, in quanto è già in viaggio verso [[Castello di re Kroll]], il castello di [[Re Groll]]. All'interno vi sono solo [[Klarg]], un bugbear a capo della banda, e [[Sildar Hallwinter]], l'uomo che stava accompagnando [[Gundren Rockseeker]].
 
 Il gruppo decide di salvare l'uomo, per poter avere qualche informazione maggiore, e di cercare di sconfiggere [[Klarg]] senza però ucciderlo, in modo da poterlo interrogare.
