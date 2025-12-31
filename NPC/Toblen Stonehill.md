@@ -1,6 +1,6 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race: Umano
+race: Human
 status: Alive
 sentiment: Neutral
 group:

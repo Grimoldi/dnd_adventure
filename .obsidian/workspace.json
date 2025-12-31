@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c837d2051eb38c37",
+        "id": "8854b0c0bdacfc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "a40f53ae8019be33",
+            "id": "27ff7d2b42fb4a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Neverwinter.md",
-                "mode": "source",
+                "file": "Current Campaign/Open points.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Neverwinter"
+              "title": "Open points"
             }
           }
         ]
@@ -198,19 +198,32 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "a40f53ae8019be33",
+  "active": "27ff7d2b42fb4a30",
   "lastOpenFiles": [
+    "Current Campaign/Mappa Neverwinter e Phandalin.md",
+    "Current Campaign/Open points.md",
+    "Campaign/C1 - Lost mines of Phandelver.md",
+    "Places/Castello di re Groll.md",
+    "Places/Tor della Viverna.md",
+    "z_assets/Places/collina_dei_cragmaw.png",
+    "z_templates/session-template.md",
+    "Places/Pozzo del vecchio gufo.md",
     "Places/Phandalin.md",
     "Places/Neverwinter.md",
-    "Places/Tor della Viverna.md",
-    "Places/Pozzo del vecchio gufo.md",
     "Places/Miniere arcane.md",
     "Places/collina dei Cragmaw.md",
-    "Places/Castello di re Groll.md",
     "z_templates/location-template.md",
+    "Untitled.base",
+    "test.md",
+    "Untitled.md",
+    "z_templates/bases/Untitled.base",
+    "z_templates/bases/location-linked-npc.base.md",
+    "z_templates/bases/location-linked-npc.base",
+    "z_templates/bases",
+    "NPC/Iarno Albrek.md",
+    "NPC/Toblen Stonehill.md",
+    "NPC/Daran Edermath.md",
     "z_templates/npc-template.md",
-    "z_templates/session-template.md",
-    "z_assets/Places/collina_dei_cragmaw.png",
     "Sessions/C1 - 03 - Esplorando Phandalin.md",
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
     "Sessions/C1 - 01 - Un nuovo inizio.md",
@@ -218,22 +231,12 @@
     "NPC/Tresp.md",
     "NPC/emissario Ragno Nero.md",
     "NPC/Bastone di vetro.md",
-    "Campaign/C1 - Lost mines of Phandelver.md",
-    "NPC/Linene.md",
-    "Groups/Zhentalim.md",
-    "Groups/Scudo del leone.md",
-    "Groups/Marchi rossi.md",
-    "Groups/Cragmaw.md",
-    "Groups/Alleanza dei Lord.md",
-    "NPC/Alia.md",
-    "Current Campaign/Timeline.md",
     "scripts/test.js",
     "scripts/New Documento di testo.txt",
     "scripts/fm_property_link_from_notes_list.js",
     "scripts/campaign_frontmatter.js",
     "scripts",
     "New folder",
-    "Current Campaign",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/z.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yin-yang.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yen-sign.svg",
@@ -242,9 +245,6 @@
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/xmark.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/worm.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/scss/_variables.scss",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/scss/_sizing.scss"
+    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/worm.svg"
   ]
 }

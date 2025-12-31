@@ -1,6 +1,6 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race: Mezzelfo
+race: Half-Elf
 status: Alive
 sentiment: Allied
 group:

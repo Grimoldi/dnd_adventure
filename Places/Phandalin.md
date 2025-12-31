@@ -20,7 +20,9 @@ properties:
   note.status:
     displayName: Status
   note.sentiment:
-    displayNmae: Sentiment
+    displayName: Sentiment
+  note.group:
+    displayName: Group
 views:
   - type: cards
     name: People - Cards
@@ -30,15 +32,23 @@ views:
         - or:
             - list(place).contains(this)
             - list(city).contains(this)
+    groupBy:
+      property: sentiment
+      direction: ASC
     order:
       - file.name
       - status
       - sentiment
+      - group  
       - race
+    sort:
+      - property: status
+        direction: ASC
+      - property: sentiment
+        direction: ASC
     image: note.portrait
     imageFit: contain
     cardSize: 170
-
 ```
 
 
