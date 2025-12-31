@@ -2,7 +2,7 @@
 ---
 campaign:
 type:
-logo:
+logo: "[[z_assets/Groups/Zhentarim.webp]]"
 banner: z_assets/default-location.png
 banner-x: 53
 banner-y: 30
@@ -11,6 +11,10 @@ banner-y: 30
 
 
 ![[Zhentarim.webp|left|300]]
+`VIEW[{logo}][image]`
+
+
+
 Type: `INPUT[template-group-type][:type]`
 
 

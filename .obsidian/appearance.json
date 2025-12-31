@@ -1,7 +1,8 @@
 {
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "custom-eu"
   ],
   "theme": "obsidian"
 }

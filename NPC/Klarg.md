@@ -6,7 +6,7 @@ sentiment: Enemy
 group: "[[Cragmaw]]"
 city:
 place: "[[collina dei Cragmaw]]"
-portrait: z_assets/NPC/Klarg.png
+portrait: "[[z_assets/NPC/Klarg.png]]"
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
