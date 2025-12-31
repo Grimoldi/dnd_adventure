@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Campaign/Open points.md",
-                "mode": "preview",
+                "file": "z_templates/group-template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Open points"
+              "title": "group-template"
             }
           }
         ]
@@ -200,18 +200,21 @@
   },
   "active": "27ff7d2b42fb4a30",
   "lastOpenFiles": [
-    "Current Campaign/Mappa Neverwinter e Phandalin.md",
-    "Current Campaign/Open points.md",
-    "Campaign/C1 - Lost mines of Phandelver.md",
-    "Places/Castello di re Groll.md",
-    "Places/Tor della Viverna.md",
-    "z_assets/Places/collina_dei_cragmaw.png",
-    "z_templates/session-template.md",
+    "Sessions/C1 - 03 - Esplorando Phandalin.md",
+    "z_templates/group-template.md",
     "Places/Pozzo del vecchio gufo.md",
     "Places/Phandalin.md",
     "Places/Neverwinter.md",
     "Places/Miniere arcane.md",
     "Places/collina dei Cragmaw.md",
+    "Places/Castello di re Groll.md",
+    "Groups/Zhentarim.md",
+    "Current Campaign/Open points.md",
+    "Current Campaign/Mappa Neverwinter e Phandalin.md",
+    "Campaign/C1 - Lost mines of Phandelver.md",
+    "Places/Tor della Viverna.md",
+    "z_assets/Places/collina_dei_cragmaw.png",
+    "z_templates/session-template.md",
     "z_templates/location-template.md",
     "Untitled.base",
     "test.md",
@@ -224,13 +227,10 @@
     "NPC/Toblen Stonehill.md",
     "NPC/Daran Edermath.md",
     "z_templates/npc-template.md",
-    "Sessions/C1 - 03 - Esplorando Phandalin.md",
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
     "Sessions/C1 - 01 - Un nuovo inizio.md",
     "NPC/Re Groll.md",
     "NPC/Tresp.md",
-    "NPC/emissario Ragno Nero.md",
-    "NPC/Bastone di vetro.md",
     "scripts/test.js",
     "scripts/New Documento di testo.txt",
     "scripts/fm_property_link_from_notes_list.js",

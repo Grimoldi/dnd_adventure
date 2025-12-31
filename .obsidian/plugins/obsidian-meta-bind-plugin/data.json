@@ -28,6 +28,10 @@
     {
       "name": "template-person-race",
       "declaration": "INPUT[suggester(\n  option(null),\n  option(Human),\n  option(Elf),\n  option(Dwarf),\n  option(Halfling),\n  option(Gnome),\n  option(Half-Elf),\n  option(Half-Orc),\n  option(Tiefling),\n  allowOther\n)]"
+    },
+    {
+      "name": "template-group-type",
+      "declaration": "INPUT[\n    inlineSelect(\n        option(Knightly Order),\n        option(Religious Order),\n        option(Magic Academy),\n        option(Artisan Guild),\n        option(Merchant Consortium),\n        option(Criminal Syndicate),\n        option(Mercenary Company),\n        option(Noble House),\n        option(Secret Society or Cult),\n        option(Adventurers’ Guild)\n    )\n]"
     }
   ],
   "buttonTemplates": [

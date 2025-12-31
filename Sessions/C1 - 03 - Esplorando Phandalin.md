@@ -12,7 +12,7 @@ session: 3
 > Arrivati a [[Phandalin]], i quattro avventurieri scoprono una città, che seppur in decadenza, presenta molte sfaccettature e attività in fermento.
 > Qui scoprono che:
 > - un gruppo cittadino, i [[Marchi rossi]], spadroneggia in città
-> - la commerciante che gestisce la _borsa dei minatori_ fa parte degli [[Zhentalim]] ed è in conflitto con i [[Marchi rossi]]
+> - la commerciante che gestisce la _borsa dei minatori_ fa parte degli [[Zhentarim]] ed è in conflitto con i [[Marchi rossi]]
 > - un gruppo di orchi minaccia a nord la città
 > - voci narrano di una presenza di non morti poco a nord della città
 >
@@ -44,7 +44,7 @@ Questa li informa che [[Re Groll]] è soldo di una figura ignota, nota come [[Ba
 
 La donna propone una ricompensa per la sconfitta dei [[Marchi rossi]] e tutti i documenti appartenenti a Bastone di vetro.
 
-[[Alia]] presenta un tatuaggio con due zanne incrociate a formare una "Z" sulla manica (riferimento degli [[Zhentalim]]).
+[[Alia]] presenta un tatuaggio con due zanne incrociate a formare una "Z" sulla manica (riferimento degli [[Zhentarim]]).
 
 Prima di poter confermare l'intenzione di accettare la missione, il gruppo è intercettato da [[Arbin Wester]], borgomastro di [[Phandalin]], che li porta nella sua villa, dove trovano già [[Sildar Hallwinter]].
 

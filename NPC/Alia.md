@@ -3,7 +3,7 @@ campaign: "[[C1 - Lost mines of Phandelver]]"
 race: Human
 status: Alive
 sentiment: Allied
-group: "[[Zhentalim]]"
+group: "[[Zhentarim]]"
 city: "[[Phandalin]]"
 place:
 portrait: z_assets/default-npc.png
