@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "90ebafce6febb4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3befeccd0b68b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Klarg.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Klarg"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -199,8 +220,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "27ff7d2b42fb4a30",
+  "active": "d3befeccd0b68b85",
   "lastOpenFiles": [
+    "z_templates/group-template.md",
     "z_assets/Groups/Zhentarim.webp",
     "z_assets/Groups",
     "z_templates/session-template.md",
@@ -208,7 +230,6 @@
     "z_assets/Sessions/uccelli-stigei.png",
     "z_assets/Sessions",
     "z_assets/New folder",
-    "z_templates/group-template.md",
     "Places/Pozzo del vecchio gufo.md",
     "Places/Phandalin.md",
     "Places/Neverwinter.md",
@@ -245,7 +266,6 @@
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/y.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/xmarks-lines.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/xmark.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg"
+    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x.svg"
   ]
 }

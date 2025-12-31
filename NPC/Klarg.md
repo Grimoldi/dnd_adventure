@@ -4,7 +4,7 @@ race: Bugbear
 status: Dead
 sentiment: Enemy
 group: "[[Cragmaw]]"
-city: 
+city:
 place: "[[collina dei Cragmaw]]"
 portrait: z_assets/NPC/Klarg.png
 ---
