@@ -195,12 +195,19 @@
       "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "27ff7d2b42fb4a30",
   "lastOpenFiles": [
+    "z_assets/Groups/Zhentarim.webp",
+    "z_assets/Groups",
+    "z_templates/session-template.md",
     "Sessions/C1 - 03 - Esplorando Phandalin.md",
+    "z_assets/Sessions/uccelli-stigei.png",
+    "z_assets/Sessions",
+    "z_assets/New folder",
     "z_templates/group-template.md",
     "Places/Pozzo del vecchio gufo.md",
     "Places/Phandalin.md",
@@ -214,7 +221,6 @@
     "Campaign/C1 - Lost mines of Phandelver.md",
     "Places/Tor della Viverna.md",
     "z_assets/Places/collina_dei_cragmaw.png",
-    "z_templates/session-template.md",
     "z_templates/location-template.md",
     "Untitled.base",
     "test.md",
@@ -230,13 +236,9 @@
     "Sessions/C1 - 02 - Nel covo dei goblin.md",
     "Sessions/C1 - 01 - Un nuovo inizio.md",
     "NPC/Re Groll.md",
-    "NPC/Tresp.md",
     "scripts/test.js",
     "scripts/New Documento di testo.txt",
     "scripts/fm_property_link_from_notes_list.js",
-    "scripts/campaign_frontmatter.js",
-    "scripts",
-    "New folder",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/z.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yin-yang.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yen-sign.svg",
@@ -244,7 +246,6 @@
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/xmarks-lines.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/xmark.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg",
-    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/worm.svg"
+    "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/x-ray.svg"
   ]
 }

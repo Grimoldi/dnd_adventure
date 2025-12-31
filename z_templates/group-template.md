@@ -2,18 +2,16 @@
 ---
 campaign:
 type:
+logo:
 banner: z_assets/default-location.png
 banner-x: 53
 banner-y: 30
 ---
 # `= this.file.title`
 
->[!note]
->> [!note]
->> ![[placheholder]]
-> 
-> > [!note | div-m]
-> > Type: `INPUT[template-group-type][:type]`
+
+![[Zhentarim.webp|left|300]]
+Type: `INPUT[template-group-type][:type]`
 
 
 ## Personaggi collegati
