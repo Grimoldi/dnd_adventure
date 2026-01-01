@@ -6,7 +6,7 @@ sentiment: Enemy
 group: "[[Cragmaw]]"
 city:
 place: "[[Castello di re Groll]]"
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Re-Groll.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`

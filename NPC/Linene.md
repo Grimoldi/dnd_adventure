@@ -6,7 +6,7 @@ sentiment: Neutral
 group: "[[Scudo del leone]]"
 city:
 place: "[[Phandalin]]"
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Linene.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`

@@ -6,7 +6,7 @@ sentiment: Unknown
 group:
 city: "[[Neverwinter]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Mendicante.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
