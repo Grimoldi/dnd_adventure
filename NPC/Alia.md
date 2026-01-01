@@ -6,7 +6,7 @@ sentiment: Allied
 group: "[[Zhentarim]]"
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Alia.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`

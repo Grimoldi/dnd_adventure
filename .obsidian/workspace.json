@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Arbin Wester.md",
+                "file": "NPC/Alia.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arbin Wester"
-            }
-          }
-        ]
-      },
-      {
-        "id": "53d792971df00831",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "645b4ad5a8881a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Alleanza dei Lord.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alleanza dei Lord"
+              "title": "Alia"
             }
           }
         ]
@@ -98,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Alleanza dei Lord.md",
+                "file": "NPC/Alia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alleanza dei Lord"
+              "title": "Backlinks for Alia"
             }
           },
           {
@@ -134,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Alleanza dei Lord.md",
+                "file": "NPC/Alia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alleanza dei Lord"
+              "title": "Outgoing links from Alia"
             }
           },
           {
@@ -219,12 +198,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "645b4ad5a8881a5e",
+  "active": "27ff7d2b42fb4a30",
   "lastOpenFiles": [
+    "z_assets/NPC/Alia.png",
+    "z_assets/NPC/Unconfirmed 951862.crdownload",
     "NPC/Arbin Wester.md",
+    "Groups/Alleanza dei Lord.md",
     "NPC/Alia.md",
     "Groups/Cragmaw.md",
-    "Groups/Alleanza dei Lord.md",
     "Current Campaign/Open points.md",
     "Current Campaign/Timeline.md",
     "Groups/Zhentarim.md",
@@ -252,7 +233,6 @@
     "z_assets/NPC/Klarg.png",
     "z_assets/Groups/Zhentarim.webp",
     "z_assets/Groups",
-    "z_templates/session-template.md",
     "z_assets/Sessions/uccelli-stigei.png",
     "z_assets/Sessions",
     "z_assets/New folder",
@@ -263,7 +243,6 @@
     "z_templates/bases",
     "scripts/test.js",
     "scripts/New Documento di testo.txt",
-    "scripts/fm_property_link_from_notes_list.js",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/z.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yin-yang.svg",
     "ZoomMap/SVGs/fontawesome-free-6.4.0-web/svgs/solid/yen-sign.svg"
