@@ -1,12 +1,12 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race:
+race: Human
 status: Alive
 sentiment: Unknown
 group:
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Harbin-Wester.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`

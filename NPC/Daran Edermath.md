@@ -6,7 +6,7 @@ sentiment: Allied
 group:
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Daran-Edermath.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
@@ -38,4 +38,4 @@ Vecchio guerriero, ormai ritiratosi a vita privata in un frutteto a nord di [[Ph
 
 Si è opposto ai [[Marchi rossi]], ma senza successo.
 
-Mal sopporta [[Arbin Wester]], per la sua incapacità (o mancanza di volersi) ad opporre ai [[Marchi rossi]]. 
+Mal sopporta [[Harbin Wester]], per la sua incapacità (o mancanza di volersi) ad opporre ai [[Marchi rossi]]. 

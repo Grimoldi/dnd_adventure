@@ -23,7 +23,7 @@
     },
     {
       "name": "template-npc-sentiment",
-      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Ally), \n  option(Enemy),\n  option(Neutral),\n  option(Unknown)\n)]"
+      "declaration": "INPUT[inlineSelect(\n  option(null),\n  option(Allied), \n  option(Enemy),\n  option(Neutral),\n  option(Unknown)\n)]"
     },
     {
       "name": "template-person-race",

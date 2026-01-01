@@ -32,7 +32,7 @@ Gli avventurieri si recano all'abitazione di [[Daran Edermath]], l'unico che par
 
 Qui, il vecchio guerriero li informa che l'arrivo dei [[Marchi rossi]] a [[Phandalin]] è coincisa con l'inizio delle voci di ritrovamento delle [[Miniere arcane]].
 Il mezz'elfo conferma che la figura di [[Alia]], alla borsa dei minatori, è quantomeno sospetto.
-Non ha gran considerazione di [[Arbin Wester]], che non pare fare nulla per risolvere il problema.
+Non ha gran considerazione di [[Harbin Wester]], che non pare fare nulla per risolvere il problema.
 
 A nord-est di [[Phandalin]] si trovano delle vecchie rovine, il [[pozzo del vecchio gufo]], in cui pare dei viandanti pare abbiamo visto di recente dei non morti, comandati da un vecchio mago.
 
@@ -46,11 +46,11 @@ La donna propone una ricompensa per la sconfitta dei [[Marchi rossi]] e tutti i 
 
 [[Alia]] presenta un tatuaggio con due zanne incrociate a formare una "Z" sulla manica (riferimento degli [[Zhentarim]]).
 
-Prima di poter confermare l'intenzione di accettare la missione, il gruppo è intercettato da [[Arbin Wester]], borgomastro di [[Phandalin]], che li porta nella sua villa, dove trovano già [[Sildar Hallwinter]].
+Prima di poter confermare l'intenzione di accettare la missione, il gruppo è intercettato da [[Harbin Wester]], borgomastro di [[Phandalin]], che li porta nella sua villa, dove trovano già [[Sildar Hallwinter]].
 
 Nell'entrare, notano un avviso di taglia verso una banda di orchi, poco fuori dalla città.
 
-[[Arbin Wester]] nega qualunque problema relativo ai [[Marchi rossi]] in città,  anzi, chiede che il gruppo non ne causi cercando scaramucce con loro.
+[[Harbin Wester]] nega qualunque problema relativo ai [[Marchi rossi]] in città,  anzi, chiede che il gruppo non ne causi cercando scaramucce con loro.
 Chiede piuttosto aiuto per liberare la cittadina dalla minaccia degli orchi, avvistati a [[Tor della Viverna]], un località a nord-est di [[Phandalin]], lungo la pista di Triboar.
 
 [[Sildar Hallwinter]], che alloggia dal borgomastro, dice che il suo amico [[Iarno Albrek]] è scomparso un paio di mesi prima, nei pressi del maniero o più verosimilmente al di sotto di esso.

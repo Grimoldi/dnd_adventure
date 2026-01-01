@@ -1,6 +1,6 @@
 ---
 campaign: "[[C1 - Lost mines of Phandelver]]"
-race: Nano
+race: Dwarf
 status: Unknown
 sentiment: Allied
 group:

@@ -6,7 +6,7 @@ sentiment: Neutral
 group:
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Toblen-Stonehill.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
