@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a human woman in the early middle of his age in a high-fantasy style with painterly textures, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "An early middle-age blonde human woman is running a commercial post for a fictional guild, called the Lion Shield. She looks tired and almost annoyed. Her clothes are common, with soft pale coloros, mainly blue, white and light blue tones.",
+    "midground": "She is next to a counter, on which a Lion with a blue mane (fictional) is evident.",
+    "background": "Around her, there are various goods and some small crane with the blue lion simbol."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Internal shine lighting.",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The girl is just making her daily job. She doesn't have any particular intereset, but she does what she has to."
+  },
+  "elements_in_motion": [
+    "The simbol in the counter is shining from the reflected light.",
+    "Her blonde hair is laining towards her shoulders."
+  ],
+  "mood_symbolism": {
+    "tone": "Relax, comfortable, a commercial yet unformal environment."
+  }
+}

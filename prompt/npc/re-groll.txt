@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a male goblin leader in a high-fantasy style with painterly textures, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A male goblin leader, called King, is standing among other goblins with a shimmering crown and rich clothes. A short sword hangs at his belt. Everything about him speaks about influence and power. He his leaning an hand upwards, as giving a speach with high tone.",
+    "midground": "A moltitude of goblin heads are looking towards him.",
+    "background": "A stone wall with cascading arazzo surround the scene. The arazzo are thorn in some points, as they were stolen by the goblins."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Day light filtering in the romm from windows.",
+    "camera_angle": "Low-angle portrait looking slightly in front towards the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The goblin is the leader of the tribe, a real king. Many goblins depends on his whishes and his power to guide them."
+  },
+  "elements_in_motion": [
+    "The hand is moving upwards, making invisible signs in the air.",
+    "The goblins heads, looking towards him, are nodding at his words."
+  ],
+  "mood_symbolism": {
+    "tone": "Leadership, power, the audience is captured by the goblin and they are at his words."
+  }
+}

@@ -1,0 +1,131 @@
+
+Create an semi-realistic image in high fantasy genre, for a tabletop role-playing game, especially for Dungeons & Dragons. {
+  "title": "Alia - The criminal",
+  "goal": "Create a semi-realistic image portrait of a woman in a High-Fantasy style. ",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A mid-aged woman with black long hair is sitting on a chair. Her legs are on top of a desk. She is wearing a red long dress, while drinking from a glass of red wine.",
+    "midground": "On the desk a candle is light up, and the desk is filled with paper and letters.",
+    "background": "The room is lighted with soft light coming from lighten candles. Several bookshelves are installed on the walls. The walls are made with rock and marble. A window is visible far from the woman, and it's closed."
+  },
+  "visual_style": {
+    "style": "Fantasy illustration style, typical of tabletop role-playing game art. Use and high fantasy style, with exaggerated features to emphasis the foreground. The  image should resamble images taken from Dungeons and Dragons manuals.",
+    "lighting": "Soft lighting. Several candles are lighten up, and outside the time is close to sunset with little to none natural lighting.",
+    "camera_angle": "Low-angle portrait, low shot looking down towards the character.",
+  },
+  "characters_creatures": {
+    "main_focus": "The woman is arrogant and supponent, typical of person that have a lot of power. She is part of a fictional criminal syndacate known as Zhentarim. A tatoo of the guild is visible on her wrist (take the image from https://static.wikia.nocookie.net/waterdeep/images/5/5f/Zhentarim.png/revision/latest?cb=20190503172129)."
+  },
+  "elements_in_motion": [
+    "Her hand is making the wine in the glass swirling , as if she is testing how the wine is tasting. Her lips are curving in a sinister smile, as she is reaching her goal.",
+    "The light of the candle on the desk is dancing in the air.",
+  ],
+  "mood_symbolism": {
+    "tone": "Power and arrogance. The woman is forcing others to do as she pleases, not given a damn about what the others are wanting to do."
+  }
+}
+
+
+=====
+
+
+Create an semi-realistic image in high fantasy genre, for a tabletop role-playing game, with painterly textures, dramatic candlelight and rich color tones. {
+  "title": "Alia - The criminal",
+  "goal": "Create a semi-realistic image portrait of a woman in a High-Fantasy style. ",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A mid-aged woman with black long hair is sitting on a chair. Her legs are on top of a desk. She is wearing a red long dress, while drinking from a glass of red wine.",
+    "midground": "On the desk a candle is light up, and the desk is filled with paper and letters.",
+    "background": "The room is lighted with soft light coming from lighten candles. Several bookshelves are installed on the walls. The walls are made with rock and marble. A window is visible far from the woman, and it's closed."
+  },
+  "visual_style": {
+    "style": "Fantasy illustration style, typical of tabletop role-playing game art. Use and high fantasy style, with exaggerated features to emphasis the foreground.",
+    "lighting": "Soft lighting. Several candles are lighten up, and outside the time is close to sunset with little to none natural lighting.",
+    "camera_angle": "Low-angle portrait, low shot looking down towards the character.",
+  },
+  "characters_creatures": {
+    "main_focus": "The woman is arrogant and supponent, typical of person that have a lot of power. She is part of a fictional criminal syndacate. A tatoo of the guild is visible on her wrist. The tattoo should look like a stylized black dragon with open wings and mouth open."
+  },
+  "elements_in_motion": [
+    "Her hand is making the wine in the glass swirling , as if she is testing how the wine is tasting. Her lips are curving in a sinister smile, as she is reaching her goal.",
+    "The light of the candle on the desk is dancing in the air.",
+  ],
+  "mood_symbolism": {
+    "tone": "Power and arrogance. The woman is forcing others to do as she pleases, not given a damn about what the others are wanting to do."
+  }
+}
+
+
+
+====
+
+Suggerito da chatgpt
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "title": "Alia - The criminal",
+  "goal": "Create a semi-realistic image portrait of a woman in a high-fantasy style with painterly textures, dramatic candlelight, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A mid-aged woman with long black hair sits in a wooden chair, legs confidently resting atop a desk. She wears a flowing red long dress and drinks from a glass of red wine.",
+    "midground": "On the desk, a candle is lit. The desk is cluttered with papers, letters, and a brass seal.",
+    "background": "Soft candlelight throughout the room. Tall bookshelves along stone-and-marble walls. A closed window is visible in the distance."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Soft, warm, flickering candlelight with gentle, directional highlights; outside is near sunset with minimal natural light.",
+    "camera_angle": "Low-angle portrait looking slightly downward toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The woman exudes arrogance and dominance, typical of someone with great power. She belongs to a fictional criminal syndicate. A black tattoo is visible on her wrist: a stylized dragon with open wings and an open mouth (original design, no branded emblem)."
+  },
+  "elements_in_motion": [
+    "She swirls the wine in the glass as if testing its quality; her lips curl into a sinister smile.",
+    "The candle flame on the desk dances softly."
+  ],
+  "mood_symbolism": {
+    "tone": "Power and arrogance—she compels others to obey without concern for their wishes."
+  }
+}
+
+
+===
+
+
+
+Create an semi-realistic image in high fantasy genre, for a fictional tabletop roleplaying game, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a woman in a high-fantasy style with painterly textures, dramatic candlelight, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A young woman, older than 25 years old, with long black hair sits in a wooden chair, legs confidently resting atop a desk. She wears a flowing red long dress and drinks from a glass of red wine.",
+    "midground": "On the desk, a candle is lit. The desk is cluttered with papers, letters, and a brass seal.",
+    "background": "Soft candlelight throughout the room. Tall bookshelves along stone-and-marble walls. A closed window is visible in the distance."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Soft, warm, flickering candlelight with gentle, directional highlights; outside is near sunset with minimal natural light.",
+    "camera_angle": "Low-angle portrait looking slightly downward toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The woman exudes arrogance and dominance, typical of someone with great power. She belongs to a fictional criminal syndicate. A black tattoo is visible on her left wrist: a stylized dragon with open wings and an open mouth (original design, no branded emblem)."
+  },
+  "elements_in_motion": [
+    "She swirls the wine in the glass as if testing its quality; her lips curl into a sinister smile.",
+    "The candle flame on the desk dances softly."
+  ],
+  "mood_symbolism": {
+    "tone": "Power and arrogance—she compels others to obey without concern for their wishes."
+  }
+}

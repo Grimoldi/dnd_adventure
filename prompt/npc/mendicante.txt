@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a humanoid man with undefined age in a high-fantasy style with painterly textures, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A begging man, rolled up in dirty, pale brown clothes, is begging for some money. He is sitting in the earth, and with an hand is holding a long thin wood stick, he would use to help himself walking. The face is half covered by rags, and his race as well as his age are hard to define.",
+    "midground": "He is sitting in the ground, and some rags sorround the terrain around him, as the man is also sleeping there.",
+    "background": "Visible not far away there's a tavern, from which comes some artificial light from the open door and windows."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Natural dim light.",
+    "camera_angle": "Low-angle portrait looking slightly tre quarters toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is sorrounded with mistery, not giving any clue about his figure or race. The only things that transpares is that he has been staying in the spot for months."
+  },
+  "elements_in_motion": [
+    "The hand without the stick is low to the terrain, asking for some begging.",
+    "A soft rain is start falling down."
+  ],
+  "mood_symbolism": {
+    "tone": "Mistery, poverty."
+  }
+}

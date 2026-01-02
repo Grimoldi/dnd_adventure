@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a human man in the early middle of his age in a high-fantasy style with painterly textures, dramatic candlelight, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A young middle-age human man, around his twenty, is running an emporium. He is standing in the front of his emporium, lazily laining his should against a wooden post. He is wearing common clothes with neutral tone, is clean and is curios about whats happening around him.",
+    "midground": "Through the open door of the emporium, different goods are visible, as well as a wooden desk.",
+    "background": "Some cranes are still outside, closed and to be handled. Two young helpers are actively moving them."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Natural light, the scene is the morning and a softle light is spreading across.",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is curios about what can possibly happening in the day, hoping for some good trades."
+  },
+  "elements_in_motion": [
+    "The man is silently singing or whiteling",
+    "Two young helpers are moving a crane in the background."
+  ],
+  "mood_symbolism": {
+    "tone": "Relax, comfortable, a friendly environment."
+  }
+}

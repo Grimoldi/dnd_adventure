@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of an old half-elf man in a high-fantasy style with painterly textures, dramatic candlelight, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "An old-aged half-elf man with long white hair sits in a wooden chair, in the barnyard of a farm. He wears logorate clothes, with consunted tones. He is smoking a long pipe with a thinking face, as remembering old times.,
+    "midground": "Behind him stands a wooden farm, with some crave or baril without distinctive signs of whats inside.",
+    "background": "Some fruit trees are visible behind the farm and the man."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Natural light, the sun is high in the sky and it is a day without clouds.",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is remembering old times, when he was a fighter, and a little nostralgia seems to approach his face. He once was a famous fighter, but is currently retired and works as a farmer for himslef."
+  },
+  "elements_in_motion": [
+    "The smoke of the pipe is making circle in air up above.",
+    "Some earth dust is flying in the wind right in front of the barnyard."
+  ],
+  "mood_symbolism": {
+    "tone": "Old, passed power, now unable to contribute to anything with mere importance."
+  }
+}

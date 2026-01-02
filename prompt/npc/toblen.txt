@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a human man in the middle of his age in a high-fantasy style with painterly textures, dramatic candlelight, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A middle-age human man is polishing a beer drinking glass behind a wooden counter. He is an innkeeper; he's wearing brown clothes with a dirty apron on top of them. He has lost much of his black hair and now he is balding. Nontheless he his cordial with his guests.",
+    "midground": "Behind him some bottles on several shelves, each one with a written label of what liquor is it. The counter is made in wood, and before it there are some high chairs.",
+    "background": "One or two guests are enjoying drinking on the counter."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Internal light, but some natural light comes in from the open windows..",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is trying to keep the inn in order, while running the business and making his guests comfortable."
+  },
+  "elements_in_motion": [
+    "His hands are polishing a drinking glass with a dirty rag.",
+    "Some guests at the end of the counter are making a toast."
+  ],
+  "mood_symbolism": {
+    "tone": "Relax, comfortable, a friendly environment."
+  }
+}

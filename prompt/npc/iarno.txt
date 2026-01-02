@@ -1,0 +1,30 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a human man in the middle of his age in a high-fantasy style with painterly textures, and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A middle-age human man is busy in a mistic ritual. He is wearing fine clothes, in a pale color palette, with a long coat on his shoulders. His face is with a light beard and his hair is short brown. His face is concentrated on the ritual. He is on his knees on the grass. A small leather bag hangs from his wrist, as he pulled something from within.",
+    "midground": "A magic glyph is designed in the sand on the ground, emitting glow pale light blue light. In his hand reach, a brown tome with golden details is left on the grass.",
+    "background": "Moutains and trees are visibile far beyond him."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Natural daylight in the open.",
+    "camera_angle": "Low-angle portrait looking slightly upwards toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is concentrated on the ritual, his gesture is making a complicated order and he has to be precise."
+  },
+  "elements_in_motion": [
+    "His hands are moving in fixed movements for a complicated ritual.",
+    "The dust around the glyph is moving in a mystic air.",
+    "The glyph is emitting pale light blue light."
+  ],
+  "mood_symbolism": {
+    "tone": "Magic, mysticism, complex ritual. The man is performing a complex ritual and is ignoring everything other."
+  }
+}

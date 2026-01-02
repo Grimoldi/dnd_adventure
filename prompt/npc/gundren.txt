@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a dwarf man in the middle of his age in a high-fantasy style with painterly textures and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A middle-age mining dwarf man is holding is pickaxe in his right hand, holding it towards the terrain. He is covered with mud and dust. His clothes are dirty as him. On the left, a cilindric leather map container is tight to his belt. He looks sturdy and resoluted, although not unfriendly or diffident. He seems really capable of reaching his own goals and sure of himself. He doesn't wear anything on his head, but his beard is covered with complicated twists.",
+    "midground": "He is sustaining on to a baril in the open street, just outside a common building.",
+    "background": "The building is made of mere stone with a little window open just above the dwarf head. A lone tree is visible just next to the building."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Natural light but the weather is cloudly and therefore the light is dim, although still present.",
+    "camera_angle": "Low-angle portrait looking slightly in downwards towards the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is giving himself a moment of relax, before getting back to his hard work."
+  },
+  "elements_in_motion": [
+    "His eyes are alert, looking around for possible threats.",
+    "The wind is making some leaf falling to the ground from a close tree."
+  ],
+  "mood_symbolism": {
+    "tone": "Tense. The dwarf is taking a moment for himself, but with the possibility of a threat coming from every possible angle."
+  }
+}

@@ -1,0 +1,27 @@
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a man in a high-fantasy style with painterly textures and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A mid-aged human man with brown greasy hair is standing up in a room; he plays nervosly with his hands and his sight is low, as to avoid eye contact.",
+    "midground": "The man is standing on top of a fine carpet; a wooden desk stands behind him..",
+    "background": "Behind the desk a big window let sun light come in. The room has several libraries to the wall, mostly filled up with books. A mobile stair is visible next to one of the libraries."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Soft, natural light, directed from the windows to the center of the room.",
+    "camera_angle": "Low-angle portrait looking slightly downward toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man seems nervous, uncertain of himself. He is suited in an elegant coat."
+  },
+  "elements_in_motion": [
+    "His hands are one in another, nervously moving without reason."
+  ],
+  "mood_symbolism": {
+    "tone": "Importance, formality, but keen to submit to a stronger personality."
+  }
+}

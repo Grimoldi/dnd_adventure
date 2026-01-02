@@ -6,7 +6,7 @@ sentiment: Unknown
 group: "[[Alleanza dei Lord]]"
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Iarno-Albrek.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
