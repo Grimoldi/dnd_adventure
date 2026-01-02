@@ -6,7 +6,7 @@ sentiment: Allied
 group: "[[Alleanza dei Lord]]"
 city: "[[Phandalin]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Sildar-Hallwinter.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`

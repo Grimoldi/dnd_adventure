@@ -1,0 +1,30 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of an human man in the late of his age in a high-fantasy style with painterly textures and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "An old human man is serving in his inn. He is holding a tray with some beers and bottles on it, while moving around the tables and his guests. His face is jovial, he enjoys working in the inn, a job he has been doing for his entire life. He wears work clothes, but they are clean. The man has a big stomach and his shirt is tight on it. On his arms he pulled both sleeves to the elbow.",
+    "midground": "",
+    "background": ""
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Internal shiny light, although being an internal room, there is plenty of light.",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is serving his guests while also having fun with them and enjoying his work."
+  },
+  "elements_in_motion": [
+    "He his moving the tray to avoid hurting guests and let the drink fall to the ground.",
+    "Guests around him are waving at him.",
+    "He is laughing and enjoying his work."
+  ],
+  "mood_symbolism": {
+    "tone": "Convivial, enjoy, informal environment where everyone knows everyone."
+  }
+}

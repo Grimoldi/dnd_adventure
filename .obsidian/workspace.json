@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Iarno Albrek.md",
+                "file": "Campaign/C1 - Lost mines of Phandelver.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iarno Albrek"
+              "title": "C1 - Lost mines of Phandelver"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/C1 - Lost mines of Phandelver.md",
-                "mode": "source",
+                "file": "NPC/Tresp.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1 - Lost mines of Phandelver"
+              "title": "Tresp"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/C1 - Lost mines of Phandelver.md",
+                "file": "NPC/Tresp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C1 - Lost mines of Phandelver"
+              "title": "Backlinks for Tresp"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/C1 - Lost mines of Phandelver.md",
+                "file": "NPC/Tresp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C1 - Lost mines of Phandelver"
+              "title": "Outgoing links from Tresp"
             }
           },
           {
@@ -215,19 +215,21 @@
   },
   "active": "7bba2b0858c91df4",
   "lastOpenFiles": [
-    "prompt/npc/sildar.txt",
+    "z_assets/NPC/Tresp.png",
+    "z_assets/NPC/Unconfirmed 246378.crdownload",
+    "prompt/npc/tresp.txt",
     "prompt/npc/toblen - Copy.txt",
+    "NPC/Sildar Hallwinter.md",
+    "Campaign/C1 - Lost mines of Phandelver.md",
+    "NPC/Iarno Albrek.md",
+    "z_assets/NPC/Sildar-Hallwinter.png",
+    "z_assets/NPC/Unconfirmed 868231.crdownload",
+    "prompt/npc/sildar.txt",
     "z_extra",
     "prompt/npc/harbin.txt",
     "prompt/npc/gundren.txt",
     "prompt/npc/elmar.txt",
     "prompt/npc/daran.txt",
-    "prompt/npc/alia.txt",
-    "prompt/npc/toblen.txt",
-    "prompt/npc/re-groll.txt",
-    "prompt/npc/mendicante.txt",
-    "NPC/Iarno Albrek.md",
-    "Campaign/C1 - Lost mines of Phandelver.md",
     "z_assets/NPC/Iarno-Albrek.png",
     "NPC/mendicante.md",
     "NPC/Re Groll.md",
@@ -238,7 +240,6 @@
     "NPC/Ragno Nero.md",
     "NPC/Toblen Stonehill.md",
     "z_assets/NPC/Linene.png",
-    "NPC/Sildar Hallwinter.md",
     "NPC/Harbin Wester.md",
     "NPC/Gundren Rockseeker.md",
     "NPC/emissario Ragno Nero.md",
@@ -253,7 +254,6 @@
     "z_assets/NPC/Toblen-Stonehill.png",
     "z_assets/Groups/Cragmaw.webp",
     "z_assets/NPC/Harbin-Wester.png",
-    "z_assets/NPC/Daran-Edermath.png",
     "Groups/Alleanza dei Lord.md",
     "Groups/Cragmaw.md",
     "Current Campaign/Open points.md",
