@@ -2,9 +2,12 @@
 campaign: "[[C1 - Lost mines of Phandelver]]"
 type: Criminal Syndicate
 logo: "[[z_assets/Groups/Zhentarim.webp]]"
-banner: z_assets/default-group.png
-banner-x: 53
-banner-y: 30
+banner: z_assets/Groups/social-syndacate.png
+banner-x: 46
+banner-y: 75
+banner-height: 830
+banner-display: auto
+banner-repeat: false
 ---
 # `= this.file.name`
 `VIEW[{logo}][image(class(eu-float-left))]`

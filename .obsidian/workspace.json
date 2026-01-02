@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/C1 - Lost mines of Phandelver.md",
+                "file": "Groups/Scudo del leone.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "C1 - Lost mines of Phandelver"
+              "title": "Scudo del leone"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Tresp.md",
+                "file": "NPC/Yeemik.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tresp"
+              "title": "Yeemik"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Tresp.md",
+                "file": "Groups/Scudo del leone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tresp"
+              "title": "Backlinks for Scudo del leone"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Tresp.md",
+                "file": "Groups/Scudo del leone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tresp"
+              "title": "Outgoing links from Scudo del leone"
             }
           },
           {
@@ -213,14 +212,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7bba2b0858c91df4",
+  "active": "27ff7d2b42fb4a30",
   "lastOpenFiles": [
+    "Groups/Zhentarim.md",
+    "NPC/Yeemik.md",
+    "Campaign/C1 - Lost mines of Phandelver.md",
+    "z_assets/Groups/social-syndacate.png",
+    "z_assets/Groups/Unconfirmed 42773.crdownload",
+    "NPC/Tresp.md",
     "z_assets/NPC/Tresp.png",
     "z_assets/NPC/Unconfirmed 246378.crdownload",
     "prompt/npc/tresp.txt",
     "prompt/npc/toblen - Copy.txt",
     "NPC/Sildar Hallwinter.md",
-    "Campaign/C1 - Lost mines of Phandelver.md",
     "NPC/Iarno Albrek.md",
     "z_assets/NPC/Sildar-Hallwinter.png",
     "z_assets/NPC/Unconfirmed 868231.crdownload",
@@ -229,7 +233,6 @@
     "prompt/npc/harbin.txt",
     "prompt/npc/gundren.txt",
     "prompt/npc/elmar.txt",
-    "prompt/npc/daran.txt",
     "z_assets/NPC/Iarno-Albrek.png",
     "NPC/mendicante.md",
     "NPC/Re Groll.md",
@@ -248,18 +251,13 @@
     "NPC/Alia.md",
     "NPC/Klarg.md",
     "z_assets/NPC/Gundren-Rockseeker.png",
-    "NPC/Yeemik.md",
     "NPC/Bastone di vetro.md",
     "z_assets/NPC/Elmar-Barthen.png",
     "z_assets/NPC/Toblen-Stonehill.png",
-    "z_assets/Groups/Cragmaw.webp",
-    "z_assets/NPC/Harbin-Wester.png",
     "Groups/Alleanza dei Lord.md",
     "Groups/Cragmaw.md",
     "Current Campaign/Open points.md",
     "Current Campaign/Timeline.md",
-    "Groups/Zhentarim.md",
-    "Groups/Scudo del leone.md",
-    "Groups/Marchi rossi.md"
+    "Groups/Scudo del leone.md"
   ]
 }

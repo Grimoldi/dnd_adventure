@@ -6,7 +6,7 @@ sentiment: Neutral
 group:
 city: "[[Neverwinter]]"
 place:
-portrait: z_assets/default-npc.png
+portrait: z_assets/NPC/Tresp.png
 ---
 
 > [!fas-infobox | h1-title no-thead]+ # `= this.file.name`
