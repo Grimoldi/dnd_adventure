@@ -64,6 +64,34 @@ views:
 
 ---
 
+## Groups:
+
+`BUTTON[button_new_group]`
+
+```base
+properties:
+  file.name:
+    displayName: Group
+  note.race:
+    displayName: Type
+views:
+  - type: cards
+    name: Groups - Cards
+    filters:
+      and:
+        - file.folder == "Groups"
+        - list(campaign).contains(this)
+    order:
+      - file.name
+      - type
+    image: note.logo
+    imageFit: contain
+    imageAspectRatio: 0.7
+
+```
+
+---
+
 ## NPC:
 
 `BUTTON[button_new_npc]`

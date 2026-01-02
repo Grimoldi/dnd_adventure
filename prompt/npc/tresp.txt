@@ -8,7 +8,7 @@ Create an semi-realistic image in high fantasy genre, with painterly textures, d
   },
   "composition": {
     "foreground": "An old human man is serving in his inn. He is holding a tray with some beers and bottles on it, while moving around the tables and his guests. His face is jovial, he enjoys working in the inn, a job he has been doing for his entire life. He wears work clothes, but they are clean. The man has a big stomach and his shirt is tight on it. On his arms he pulled both sleeves to the elbow.",
-    "midground": "",
+    "midground": "He his surrounded by guests, which are chatting with him and laughing alongside him.",
     "background": ""
   },
   "visual_style": {

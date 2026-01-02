@@ -88,6 +88,24 @@
         }
       ],
       "icon": "plus"
+    },
+    {
+      "label": "Group",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click to create a new Group.",
+      "id": "button_new_group",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_templates/group-template.md",
+          "folderPath": "Groups",
+          "fileName": "New Session",
+          "openNote": true
+        }
+      ],
+      "icon": "plus"
     }
   ],
   "excludedFolders": [
