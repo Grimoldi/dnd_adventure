@@ -84,6 +84,7 @@ views:
     order:
       - file.name
       - race
+      - group
     image: note.portrait
     imageFit: contain
     imageAspectRatio: 0.7

@@ -1,0 +1,29 @@
+
+
+Create an semi-realistic image in high fantasy genre, with painterly textures, dramatic candlelight and rich color tones. {
+  "goal": "Create a semi-realistic image portrait of a human man in the middle of his age in a high-fantasy style with painterly textures and rich color tones.",
+  "parameters": {
+    "scene_type": "Portrait",
+    "focus": "Focused on the character's upper body and expression."
+  },
+  "composition": {
+    "foreground": "A middle-age human man is a protector of the land, member of a fictionary knightly order woved to defend people against villains. He is well dressed with fine clothes, a cloack on his shoulders, fluttering in the wind. He doesn't wear any shield, but a sword hanged on his belt.",
+    "midground": "Behind him there is a path between the forest.",
+    "background": "Far behind a wooden village is visible; an old manner is visible on the side of a cliff."
+  },
+  "visual_style": {
+    "style": "Semi-realistic high-fantasy illustration with painterly textures, detailed fabrics and metal accents, and subtle exaggerated emphasis on the foreground.",
+    "lighting": "Daily light in the sunset. The season should be autumn, with warm colors of the trees around him.",
+    "camera_angle": "Low-angle portrait looking slightly in front toward the character, shallow depth of field."
+  },
+  "characters_creatures": {
+    "main_focus": "The man is trying to intercept any danger to the village. His sight is looking forward to orchs or goblins"
+  },
+  "elements_in_motion": [
+    "His cloack is waving in the wind that is affecting the valley.",
+    "Some leaves are falling from the tree."
+  ],
+  "mood_symbolism": {
+    "tone": "Calm, fiery and keen to protect."
+  }
+}

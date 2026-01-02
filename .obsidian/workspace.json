@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a6df2248da1ad8d",
@@ -216,6 +215,9 @@
   },
   "active": "7bba2b0858c91df4",
   "lastOpenFiles": [
+    "prompt/npc/sildar.txt",
+    "prompt/npc/toblen - Copy.txt",
+    "z_extra",
     "prompt/npc/harbin.txt",
     "prompt/npc/gundren.txt",
     "prompt/npc/elmar.txt",
@@ -224,9 +226,6 @@
     "prompt/npc/toblen.txt",
     "prompt/npc/re-groll.txt",
     "prompt/npc/mendicante.txt",
-    "prompt/npc/linene.txt",
-    "prompt/npc/iarno.txt",
-    "prompt/npc",
     "NPC/Iarno Albrek.md",
     "Campaign/C1 - Lost mines of Phandelver.md",
     "z_assets/NPC/Iarno-Albrek.png",
